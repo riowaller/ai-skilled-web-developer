@@ -1,25 +1,38 @@
 # AI-Skilled Web Developer Program
 **Curriculum Revision & Title 5 Update Tracker**
 
-Welcome to the central workspace for our curriculum update workgroup. This repository tracks our collaborative efforts to modernize the Web Developer program at our college, officially transitioning it to the **AI-Skilled Web Developer** program.
+Welcome to the central workspace for our curriculum update workgroup. This repository tracks our collaborative efforts to modernize the Web Developer program, officially transitioning it to the **AI-Skilled Web Developer** program.
 
-## 🎯 The Vision: Why "AI-Skilled"?
-*Learn to code. Master the tools. Build faster.*
+---
 
-The industry is shifting, and our curriculum must reflect the new standard of web development. We are not teaching students how to let AI build websites for them. Instead, we are training **AI-Skilled Web Developers**—professionals who possess strong foundational coding logic and use AI as a force multiplier. 
+## 📢 Meeting Announcement
+* **Date:** Wednesday, March 18th
+* **Time:** 3:00 PM
+* **Location:** TBD
+* **Objective:** Review initial course drafts and finalize program-level goals.
 
-Our updates weave AI-assisted workflows (prompt engineering, code review, debugging, and schema design) into our existing courses while maintaining strict academic rigor and university transferability.
+---
 
-### 🛠️ The "Mechanical Shop" Philosophy
-To ensure student mastery, our technical courses (CIT 85, 28, and 93) function like a mechanical shop:
-* **Hands-on Syntax:** Students author code manually to understand the "under the hood" mechanics.
-* **AI as Tutor:** AI is utilized for debugging and explaining logic rather than simple code generation.
-* **Verification:** Core coding courses are being updated to include **Technical Interviews** where students verbally defend their logic.
+## 💡 Program-Level Rationale
+The web development landscape has undergone a tectonic shift with the advent of Generative AI. To remain competitive and provide high-value labor to the region, our program must evolve.
+
+### 1. Industry Alignment
+Modern developers are expected to be "AI-augmented." Employers no longer look for just syntax knowledge; they look for developers who can leverage AI to accelerate the development lifecycle while maintaining the critical thinking required to debug and secure complex systems.
+
+### 2. The "Mechanical Shop" Pedagogy
+We are adopting a "Mechanical Shop" approach to technical instruction:
+* **Foundational Mastery:** Students learn the "under the hood" mechanics of HTML, CSS, SQL, and JavaScript through manual authoring.
+* **AI as a Force Multiplier:** Students are taught to use AI for code explanation, documentation, and debugging—skills that mirror senior-level developer workflows.
+* **Verifiable Competency:** To combat academic integrity concerns and ensure genuine learning, core courses now include **Technical Interviews** and **Verbal Code Reviews**.
+
+### 3. Transferability & Rigor
+These updates maintain the integrity of our CSU transferable courses. By replacing legacy technologies (XML, Frames, etc.) with modern AI-assisted workflows, we increase the rigor and relevance of the student's portfolio.
+
+---
 
 ## 📁 Repository Structure
-* `program-level-rationale.md` *(Upcoming: The cohesive Title 5 justification for the curriculum committee)*
-* `/courses` *(Directory containing the Course Outline of Record updates)*
-  * [`cit82-intro-ai-web-dev.md`](courses/cit82-intro-web-dev.md) - **Introduction to AI and Web Development** [IN PROGRESS]
+* `/courses` *(Drafts in progress)*
+  * [`cit82-intro-ai-web-dev.md`](courses/cit82-intro-web-dev.md) - **Introduction to AI and Web Development**
   * [`cit85-html-css.md`](courses/cit85-html-css.md) - **HTML and CSS** [IN PROGRESS]
   * [`cit28-sql.md`](courses/cit28-databases.md) - **SQL** [IN PROGRESS]
   * [`cit93-javascript.md`](courses/cit93-javascript.md) - **JavaScript** [IN PROGRESS]
@@ -29,9 +42,6 @@ To ensure student mastery, our technical courses (CIT 85, 28, and 93) function l
 * Dennis Mohle, Rick Gomez, Breanna Rayburn, Dee Cetin-Berber, Drew Baker
 
 ## 🌐 Public Review & Transparency
-This repository is now **Public** to champion open educational resources (OER) and program transparency. 
+This repository is **Public** to champion program transparency. 
 
-**For the Workgroup & Reviewers:**
-1. **Review:** Check the proposed changes in the markdown tables within each course file.
-2. **Discuss:** Use the **Issues** tab to discuss specific objectives or wording.
-3. **Drafting:** Note that course files marked **[IN PROGRESS]** are subject to further refinement by the faculty workgroup.
+**For the Workgroup:** Please review the courses above in preparation for our meeting on the 18th. Use the **Issues** tab to log specific feedback or suggestions.
