@@ -32,14 +32,14 @@ These updates maintain the integrity of our CSU transferable courses. By replaci
 
 ## 📁 Repository Structure
 * `/courses` *(Drafts in progress)*
-  * [`cit82-intro-ai-web-dev.md`](courses/cit82-intro-web-dev.md) - **Introduction to AI and Web Development**
+  * [`cit82-intro-ai-web-dev.md`](courses/cit82-intro-web-dev.md) - **Introduction to AI and Web Development** [IN PROGRESS]
   * [`cit85-html-css.md`](courses/cit85-html-css.md) - **HTML and CSS** [IN PROGRESS]
   * [`cit28-sql.md`](courses/cit28-databases.md) - **SQL** [IN PROGRESS]
   * [`cit93-javascript.md`](courses/cit93-javascript.md) - **JavaScript** [IN PROGRESS]
 
 ## 🤝 Workgroup Members
 * Rio Waller - Program Manager / Faculty
-* Dennis Mohle, Rick Gomez, Breanna Rayburn, Dee Cetin-Berber, Drew Baker
+* Dennis Mohle, Rick Gomez, Breanna Rayburn, Dee Cetin-Berber, Drew Baker, Lori Swain, Matt Hodge
 
 ## 🌐 Public Review & Transparency
 This repository is **Public** to champion program transparency. 
