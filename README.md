@@ -16,9 +16,9 @@ This repository is organized to separate our high-level program narrative from t
 * `program-level-rationale.md` *(Upcoming: The cohesive Title 5 justification for the curriculum committee)*
 * `/courses` *(Directory containing the Course Outline of Record updates)*
   * [`cit82-intro-web-dev.md`](courses/cit82-intro-web-dev.md) - **[IN PROGRESS]**
-  * [`cit85-html-css.md`](courses/cit85-html-css.md) - *(Upcoming)*
-  * [`cit28-databases.md`](courses/cit28-databases.md) - *(Upcoming)*
-  * [`cit93-javascript.md`](courses/cit93-javascript.md) - *(Upcoming)*
+  * [`cit85-html-css.md`](courses/cit85-html-css.md) - **[IN PROGRESS]**
+  * [`cit28-databases.md`](courses/cit28-databases.md) - **[IN PROGRESS]**
+  * [`cit93-javascript.md`](courses/cit93-javascript.md) - **[IN PROGRESS]**
 
 ## 🤝 Workgroup Members
 * Rio Waller - Program Manager / Faculty

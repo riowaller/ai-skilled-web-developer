@@ -1,3 +1,10 @@
+# CIT 82: Course Revision Tracker
+
+## Course Title Revision
+| **Section** | **Current Text** | **Proposed Text** | **Rationale for Change** |
+| :--- | :--- | :--- | :--- |
+| **Course Title** | Introduction to Web Development | **Introduction to AI and Web Development** | Modernized the title to reflect the integrated nature of the curriculum, emphasizing that AI is now a foundational tool alongside traditional web technologies. |
+
 ## Catalog Course Description Revision
 
 | **Section** | **Current Text** | **Proposed Text** | **Rationale for Change** |
