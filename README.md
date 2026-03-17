@@ -8,7 +8,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ## 📢 Meeting Announcement
 * **Date:** Wednesday, March 18th
 * **Time:** 3:00 PM
-* **Location:** TBD
+* **Location:** BE-120
 * **Objective:** Review initial course drafts and finalize program-level goals.
 
 ---
