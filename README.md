@@ -36,6 +36,7 @@ These updates maintain the integrity of our CSU transferable courses. By replaci
   * [`cit85-html-css.md`](courses/cit85-html-css.md) - **HTML and CSS** [IN PROGRESS]
   * [`cit28-sql.md`](courses/cit28-databases.md) - **SQL** [IN PROGRESS]
   * [`cit93-javascript.md`](courses/cit93-javascript.md) - **JavaScript** [IN PROGRESS]
+  * [`cit94-ai-workflows.md`](courses/cit94-ai-workflows.md) - **AI Web Workflows** [IN PROGRESS]
 
 ## 🤝 Workgroup Members
 * Rio Waller - Program Manager / Faculty
