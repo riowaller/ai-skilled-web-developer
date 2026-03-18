@@ -39,7 +39,7 @@ These updates maintain the integrity of our CSU transferable courses. By replaci
 
 ## 🤝 Workgroup Members
 * Rio Waller - Program Manager / Faculty
-* Dennis Mohle, Rick Gomez, Breanna Rayburn, Dee Cetin-Berber, Drew Baker, Lori Swain, Matt Hodge
+* Dennis Mohle, Verne Farley, Rick Gomez, Breanna Rayburn, Dee Cetin-Berber, Drew Baker, Lori Swain, Matt Hodge
 
 ## 🌐 Public Review & Transparency
 This repository is **Public** to champion program transparency. 
