@@ -23,6 +23,7 @@ Modern developers are expected to be "AI-augmented." Employers no longer look fo
 We are adopting a "Mechanical Shop" approach to technical instruction:
 * **Foundational Mastery:** Students learn the "under the hood" mechanics of HTML, CSS, SQL, and JavaScript through manual authoring.
 * **AI as a Force Multiplier:** Students are taught to use AI for code explanation, documentation, and debugging—skills that mirror senior-level developer workflows.
+* **Advanced Orchestration:** In the capstone (**CIT 94**), students transition from *using* AI to *building* with it—integrating LLM APIs and vector databases into functional web applications.
 * **Verifiable Competency:** To combat academic integrity concerns and ensure genuine learning, core courses now include **Technical Interviews** and **Verbal Code Reviews**.
 
 ### 3. Transferability & Rigor
