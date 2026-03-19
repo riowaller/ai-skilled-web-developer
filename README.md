@@ -11,6 +11,8 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 * **Location:** BE-120
 * **Objective:** Review initial course drafts and finalize program-level goals.
 
+## Previous Meeting Notes
+* [3-18-2026](meeting-notes/2026-03-18-notes.md) 
 ---
 
 ## 💡 Program-Level Rationale
@@ -26,6 +28,8 @@ We are adopting a "Mechanical Shop" approach to technical instruction:
 * **Advanced Orchestration:** In the capstone (**CIT 94**), students transition from *using* AI to *building* with it—integrating LLM APIs and vector databases into functional web applications.
 * **Verifiable Competency:** To combat academic integrity concerns and ensure genuine learning, core courses now include **Technical Interviews** and **Verbal Code Reviews**.
 
+
+
 ### 3. Transferability & Rigor
 These updates maintain the integrity of our CSU transferable courses. By replacing legacy technologies (XML, Frames, etc.) with modern AI-assisted workflows, we increase the rigor and relevance of the student's portfolio.
 
@@ -38,6 +42,12 @@ These updates maintain the integrity of our CSU transferable courses. By replaci
   * [`cit28-sql.md`](courses/cit28-databases.md) - **SQL** [IN PROGRESS]
   * [`cit93-javascript.md`](courses/cit93-javascript.md) - **JavaScript** [IN PROGRESS]
   * [`cit94-ai-workflows.md`](courses/cit94-ai-workflows.md) - **AI Web Workflows** [IN PROGRESS]
+
+  ### Program Options (Electives)
+* **CIT 84:** Web Frameworks
+* **CIT 95:** Python
+* **CIT 63:** Java
+* **CIT 99:** Machine Learning
 
 ## 🤝 Workgroup Members
 * Rio Waller - Program Manager / Faculty
