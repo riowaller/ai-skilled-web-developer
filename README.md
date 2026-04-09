@@ -7,7 +7,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 
 ## 📢 Next Meeting Announcement
 * **Date:** Wednesday, April 8th
-* **Time:** 2:50 PM
+* **Time:** 2:50 PM to 4 PM
 * **Location:** BE-120 or Zoom
 * **Objective:** Review initial course drafts and finalize program-level goals.
 
@@ -16,12 +16,12 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 | Time | Activity |
 | :--- | :--- |
 | **2:50pm – 3:05pm** | Chatting |
-| **3:05pm – 3:15pm** | Thoughts since last meeting |
-| **3:15pm – 3:35pm** | Pre-req(s) |
+| **3:05pm – 3:35pm** | Review course pre-req plan |
 | **3:35pm – 3:45pm** | Naming and next steps |
 
 ## Previous Meeting Notes
 * [3-18-2026](meeting-notes/2026-03-18-notes.md) 
+* [4-08-2026](meeting-notes/2026-04-08-notes.md) 
 ---
 
 ## 💡 Program-Level Rationale
