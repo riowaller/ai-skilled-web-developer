@@ -6,17 +6,17 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ---
 
 ## 📢 Next Meeting Announcement
-* **Date:** Wednesday, April 8th
+* **Date:** Wednesday, April 22th
 * **Time:** 2:50 PM to 4 PM
 * **Location:** BE-120 or Zoom
-* **Objective:** Review initial course drafts and finalize program-level goals.
+* **Objective:** Review requistes draft that will be sent out to the team by next Wed April 15
 
 ### Meeting Agenda
 
 | Time | Activity |
 | :--- | :--- |
 | **2:50pm – 3:05pm** | Chatting |
-| **3:05pm – 3:35pm** | Review course pre-req plan |
+| **3:05pm – 3:35pm** | [Review course pre-req plan](curriculum-planning/pathway-and-requisites.md) |
 | **3:35pm – 3:45pm** | Naming and next steps |
 
 ## Previous Meeting Notes
@@ -36,8 +36,6 @@ We are adopting a "Mechanical Shop" approach to technical instruction:
 * **AI as a Force Multiplier:** Students are taught to use AI for code explanation, documentation, and debugging—skills that mirror senior-level developer workflows.
 * **Advanced Orchestration:** In the capstone (**CIT 94**), students transition from *using* AI to *building* with it—integrating LLM APIs and vector databases into functional web applications.
 * **Verifiable Competency:** To combat academic integrity concerns and ensure genuine learning, core courses now include **Technical Interviews** and **Verbal Code Reviews**.
-
-
 
 ### 3. Transferability & Rigor
 These updates maintain the integrity of our CSU transferable courses. By replacing legacy technologies (XML, Frames, etc.) with modern AI-assisted workflows, we increase the rigor and relevance of the student's portfolio.
