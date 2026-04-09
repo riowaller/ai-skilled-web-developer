@@ -24,3 +24,17 @@ Industry expectations for "Junior" productivity have shifted. A single developer
 
 ## 📊 Regional Impact (Central Valley)
 By modernizing the Fresno City College curriculum, we are ensuring that our local labor force remains competitive for remote roles and local tech growth, preventing "technical debt" in our students' skill sets.
+
+### 📚 References & Data Sources
+
+### 📚 2026 Market References & Data Sources
+1. **PwC Global AI Jobs Barometer (March 2026):** Reports a **56% wage premium** for technical professionals with advanced AI fluency.
+2. **LinkedIn Labor Market Report (Jan 2026):** Documents a **70% YoY increase** in roles requiring AI Literacy and "Hybrid Team" capabilities.
+3. **AWS/StudyTech Salary Report (Feb 2026):** Identifies **AI/ML specializations** as the fastest-growing salary bracket in tech (+15% YoY).
+4. **Stack Overflow Developer Survey (Feb 2026):** Highlights the "AI Trust Gap," validating the need for developers who possess **Architectural Mastery** over simple syntax generation.
+
+### 📚 2024 Market References & Data Sources
+1. **AWS AI Skills Research:** *How AI Skills are Reshaping the Workforce.* (Average salary increase of 35% for AI-skilled IT workers).
+2. **PwC Global AI Jobs Barometer 2024:** *The AI Productivity and Wage Premium.* (Documenting 25% wage growth in AI-integrated sectors).
+3. **LinkedIn Future of Work Report 2024:** *AI at Work.* (Executive demand for AI-augmented technical talent).
+4. **Stack Overflow Developer Survey 2024:** *AI in the Development Lifecycle.*
