@@ -16,7 +16,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 | Time | Activity |
 | :--- | :--- |
 | **2:50pm – 3:05pm** | Chatting |
-| **3:05pm – 3:35pm** | [Review course pre-req plan](curriculum-planning/pathway-and-requisites.md) |
+| **3:05pm – 3:35pm** | [Review course pre-req plan](curriculum-planning/pathway-and-requisites.md) & [Student Readiness System](curriculum-planning/student-readiness-system.md) |
 | **3:35pm – 3:45pm** | Naming and next steps |
 
 ## Previous Meeting Notes
