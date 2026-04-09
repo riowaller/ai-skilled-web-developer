@@ -5,23 +5,33 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 
 ---
 
-## 📢 Next Meeting Announcement
-* **Date:** Wednesday, April 22th
+## 📢 Upcoming Meetings
+
+### 💻 Interim Working Session (Zoom Only)
+* **Date:** Wednesday, April 15th
+* **Time:** 2:50 PM to 4 PM
+* **Objective:** Socialize the "Supportive Entry" model and the CIT 48A pivot.
+* **Agenda:**
+  * [Review Course Pre-req Plan](curriculum-planning/pathway-and-requisites.md)
+  * [Student Readiness System Walkthrough](curriculum-planning/student-readiness-system.md)
+  * [Naming & Branding Options](curriculum-planning/program-naming-options.md)
+
+### 🏛️ Official Workgroup Meeting
+* **Date:** Wednesday, April 22nd
 * **Time:** 2:50 PM to 4 PM
 * **Location:** BE-120 or Zoom
-* **Objective:** Review requistes draft that will be sent out to the team by next Wed April 15
+* **Objective:** Finalize "3 Minimum Day-1 Skills" and approve Title 5 Requisites for submission.
+* **Agenda:**
+  * **2:50pm – 3:05pm:** Welcome & Final Check-in
+  * **3:05pm – 3:25pm:** [Market Analysis & Career Impact](curriculum-planning/market-analysis-and-career-impact.md) (The "AI Salary Premium")
+  * **3:25pm – 3:45pm:** Approval of Requisites & Readiness System
+  * **3:45pm – 4:00pm:** Final Program Naming & Next Steps
 
-### Meeting Agenda
-
-| Time | Activity |
-| :--- | :--- |
-| **2:50pm – 3:05pm** | Chatting |
-| **3:05pm – 3:35pm** | [Review course pre-req plan](curriculum-planning/pathway-and-requisites.md) & [Student Readiness System](curriculum-planning/student-readiness-system.md) |
-| **3:35pm – 3:45pm** | Naming and next steps |
 
 ## Previous Meeting Notes
-* [3-18-2026](meeting-notes/2026-03-18-notes.md) 
 * [4-08-2026](meeting-notes/2026-04-08-notes.md) 
+* [3-18-2026](meeting-notes/2026-03-18-notes.md) 
+
 ---
 
 ## 💡 Program-Level Rationale
@@ -33,28 +43,32 @@ Modern developers are expected to be "AI-augmented." Employers no longer look fo
 ### 2. The "Mechanical Shop" Pedagogy
 We are adopting a "Mechanical Shop" approach to technical instruction:
 * **Foundational Mastery:** Students learn the "under the hood" mechanics of HTML, CSS, SQL, and JavaScript through manual authoring.
-* **AI as a Force Multiplier:** Students are taught to use AI for code explanation, documentation, and debugging—skills that mirror senior-level developer workflows.
-* **Advanced Orchestration:** In the capstone (**CIT 94**), students transition from *using* AI to *building* with it—integrating LLM APIs and vector databases into functional web applications.
-* **Verifiable Competency:** To combat academic integrity concerns and ensure genuine learning, core courses now include **Technical Interviews** and **Verbal Code Reviews**.
+* **AI as a Force Multiplier:** Students are taught to use AI for code explanation, documentation, and debugging.
+* **Verifiable Competency:** To combat academic integrity concerns, core courses include **Technical Interviews** and **Verbal Code Reviews**.
 
-### 3. Transferability & Rigor
-These updates maintain the integrity of our CSU transferable courses. By replacing legacy technologies (XML, Frames, etc.) with modern AI-assisted workflows, we increase the rigor and relevance of the student's portfolio.
+### 3. Economic Mobility & The "AI Premium"
+Industry data indicates a widening salary gap. Developers proficient in AI-augmented workflows command a **15%–25% premium** over traditional roles. Our program ensures Central Valley students are prepared for these high-value positions.
+* **Read more:** [Market Analysis & Career Impact](curriculum-planning/market-analysis-and-career-impact.md)
+
+### 4. Transferability & Rigor
+These updates maintain the integrity of our CSU transferable courses. By utilizing a **[Student Readiness System](curriculum-planning/student-readiness-system.md)**, we maintain access for transfer students while ensuring they meet the technical "Handshake" (Git/Terminal) required for advanced labs.
 
 ---
 
 ## 📁 Repository Structure
-* `/courses` *(Drafts in progress)*
-  * [`cit82-intro-ai-web-dev.md`](courses/cit82-intro-web-dev.md) - **Introduction to AI and Web Development** [IN PROGRESS]
-  * [`cit85-html-css.md`](courses/cit85-html-css.md) - **HTML and CSS** [IN PROGRESS]
-  * [`cit28-sql.md`](courses/cit28-databases.md) - **SQL** [IN PROGRESS]
-  * [`cit93-javascript.md`](courses/cit93-javascript.md) - **JavaScript** [IN PROGRESS]
-  * [`cit94-ai-workflows.md`](courses/cit94-ai-workflows.md) - **AI Web Workflows** [IN PROGRESS]
+* **[`/curriculum-planning`](curriculum-planning/)**
+  * [`pathway-and-requisites.md`](curriculum-planning/pathway-and-requisites.md) - **Prerequisite Plan & Student Success Map**
+  * [`student-readiness-system.md`](curriculum-planning/student-readiness-system.md) - **Supportive Entry & "Bridge" Workflow**
+  * [`market-analysis-and-career-impact.md`](curriculum-planning/market-analysis-and-career-impact.md) - **Salary Gaps & AI Industry Rationale**
+  * [`program-naming-options.md`](curriculum-planning/program-naming-options.md) - **Articulation vs. Branding Comparison**
+* **`/courses`** *(Drafts in progress)*
+  * [`cit82-intro-ai-web-dev.md`](courses/cit82-intro-web-dev.md)
+  * [`cit85-html-css.md`](courses/cit85-html-css.md)
+  * [`cit28-sql.md`](courses/cit28-databases.md)
+  * [`cit93-javascript.md`](courses/cit93-javascript.md)
+  * [`cit94-ai-workflows.md`](courses/cit94-ai-workflows.md)
 
-  ### Program Options (Electives)
-* **CIT 84:** Web Frameworks
-* **CIT 95:** Python
-* **CIT 63:** Java
-* **CIT 99:** Machine Learning
+---
 
 ## 🤝 Workgroup Members
 * Rio Waller - Program Manager / Faculty
@@ -63,4 +77,4 @@ These updates maintain the integrity of our CSU transferable courses. By replaci
 ## 🌐 Public Review & Transparency
 This repository is **Public** to champion program transparency. 
 
-**For the Workgroup:** Please review the courses above in preparation for our meeting on the 18th. Use the **Issues** tab to log specific feedback or suggestions.
+**For the Workgroup:** Please review the courses and planning documents above. Use the **Issues** tab to log specific feedback or suggestions.
