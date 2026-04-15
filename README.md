@@ -34,8 +34,12 @@ To ensure we can finalize our submission within the hour, please review these th
 ## 💡 Program-Level Rationale
 The web development landscape has undergone a tectonic shift with the advent of Generative AI. To remain competitive and provide high-value labor to the region, our program must evolve.
 
-### 1. Industry Alignment
-Modern developers are expected to be "AI-augmented." Employers no longer look for just syntax knowledge; they look for developers who can leverage AI to accelerate the development lifecycle while maintaining the critical thinking required to debug and secure complex systems.
+### 1. Industry Alignment & Job Ecosystem
+Modern developers no longer work in isolation; they are integral nodes in an **AI-augmented job ecosystem**. 
+
+* **The Ecosystem Approach:** Employers are seeking "Full-Spectrum" talent capable of navigating the intersections of web architecture, data modeling (SQL), and AI orchestration. 
+* **Role Fluidity:** Our program prepares students for a diverse ecosystem of roles—including Web Developer, Associate AI Engineer, and Data Integrator—ensuring they have the versatility to thrive as industry demands shift.
+* **Collaboration Mastery:** By using Git and AI-assisted workflows across the curriculum, students mirror the collaborative dynamics of a professional technical ecosystem.
 
 ### 2. The "Mechanical Shop" Pedagogy
 We are adopting a "Mechanical Shop" approach to technical instruction:
