@@ -7,25 +7,22 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 
 ## 📢 Upcoming Meetings
 
-### 💻 Interim Working Session (Zoom Only)
-* **Date:** Wednesday, April 15th
-* **Time:** 2:50 PM to 4 PM
-* **Objective:** Socialize the "Supportive Entry" model and the CIT 48A pivot.
-* **Agenda:**
-  * [Review Course Pre-req Plan](curriculum-planning/pathway-and-requisites.md)
-  * [Student Readiness System Walkthrough](curriculum-planning/student-readiness-system.md)
-  * [Naming & Branding Options](curriculum-planning/program-naming-options.md)
+#### 📋 Please Review Before the Meeting:
+To ensure we can finalize our submission within the hour, please review these three key drafts:
+1. **[The Success Audit Skills](curriculum-planning/student-readiness-system.md):** Review the "3 Minimum Day-1 Skills" for your specific course. Are these the right technical targets for the Bridge?
+2. **[The Advisory Pathway](curriculum-planning/pathway-and-requisites.md):** Review the move from Prerequisites to Advisories based on our April 15th consensus.
+3. **[Market Analysis](curriculum-planning/market-analysis-and-career-impact.md):** Familiarize yourself with the "AI Premium" data to help strengthen our Title 5 rationale.
 
-### 🏛️ Official Workgroup Meeting
+#### 📝 Official Workgroup Meeting
+* **Objective:** Approve Title 5 Requisites and finalize the "Day-1 Handshake" skills.
 * **Date:** Wednesday, April 22nd
 * **Time:** 2:50 PM to 4 PM
 * **Location:** BE-120 or Zoom
-* **Objective:** Finalize "3 Minimum Day-1 Skills" and approve Title 5 Requisites for submission.
-* **Agenda:**
-  * **2:50pm – 3:05pm:** Welcome & Final Check-in
-  * **3:05pm – 3:25pm:** [Market Analysis & Career Impact](curriculum-planning/market-analysis-and-career-impact.md) (The "AI Salary Premium")
-  * **3:25pm – 3:45pm:** Approval of Requisites & Readiness System
-  * **3:45pm – 4:00pm:** Final Program Naming & Next Steps
+
+* **2:50pm – 3:05pm:** Welcome & Final Check-in
+* **3:05pm – 3:25pm:** **Market Analysis & Career Impact:** How the "AI Salary Premium" justifies our new rigor.
+* **3:25pm – 3:45pm:** **Final Approval:** Requisites/Advisories & the Student Readiness System.
+* **3:45pm – 4:00pm:** **Naming & Next Steps:** Finalizing the program title and submission timeline.
 
 
 ## Previous Meeting Notes
