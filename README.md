@@ -34,12 +34,12 @@ To ensure we can finalize our submission within the hour, please review these th
 ## 💡 Program-Level Rationale
 The web development landscape has undergone a tectonic shift with the advent of Generative AI. To remain competitive and provide high-value labor to the region, our program must evolve.
 
-### 1. Industry Alignment & Job Ecosystem
-Modern developers no longer work in isolation; they are integral nodes in an **AI-augmented job ecosystem**. 
+### 1. Industry Alignment & Career Ecosystem
+We are training students to navigate a dynamic **AI-Augmented Career Ecosystem**. This shift ensures that our graduates are not just "syntax-ready" for a single role, but "ecosystem-ready" for a sustainable, 30-year career.
 
-* **The Ecosystem Approach:** Employers are seeking "Full-Spectrum" talent capable of navigating the intersections of web architecture, data modeling (SQL), and AI orchestration. 
-* **Role Fluidity:** Our program prepares students for a diverse ecosystem of roles—including Web Developer, Associate AI Engineer, and Data Integrator—ensuring they have the versatility to thrive as industry demands shift.
-* **Collaboration Mastery:** By using Git and AI-assisted workflows across the curriculum, students mirror the collaborative dynamics of a professional technical ecosystem.
+* **The Career Lattice:** Our curriculum provides the foundational mastery required for vertical and horizontal mobility. By understanding the intersections of web architecture, data modeling (SQL), and AI orchestration, students can pivot across various technical sectors as the industry evolves.
+* **Architectural Oversight:** Beyond simple code generation, we focus on **AI Orchestration and Auditing**. This prepares students for higher-value roles that require human critical thinking to secure and manage AI-driven systems.
+* **Professional Versatility:** By mastering professional environments (GitHub, VS Code, Terminal) from day one, students possess the "Universal Handshake" skills required to thrive in any technical team, ensuring they remain resilient nodes in the global tech ecosystem.
 
 ### 2. The "Mechanical Shop" Pedagogy
 We are adopting a "Mechanical Shop" approach to technical instruction:
