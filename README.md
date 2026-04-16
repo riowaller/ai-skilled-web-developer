@@ -62,7 +62,7 @@ These updates maintain the integrity of our CSU transferable courses. By utilizi
   * [`student-readiness-system.md`](curriculum-planning/student-readiness-system.md) - **Supportive Entry & "Bridge" Workflow**
   * [`market-analysis-and-career-impact.md`](curriculum-planning/market-analysis-and-career-impact.md) - **Salary Gaps & AI Industry Rationale**
   * [`program-naming-options.md`](curriculum-planning/program-naming-options.md) - **Articulation vs. Branding Comparison**
-  * [`compliance-and-coding.md`] (curriculum-planning/compliance-and-coding.md) - **Compliance & Coding Blueprint (2026)**
+  * [`compliance-and-coding.md`](curriculum-planning/compliance-and-coding.md) - **Compliance & Coding Blueprint (2026)**
 * **`/courses`** *(Drafts in progress)*
   * [`cit82-intro-ai-web-dev.md`](courses/cit82-intro-web-dev.md)
   * [`cit85-html-css.md`](courses/cit85-html-css.md)
