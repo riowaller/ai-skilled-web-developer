@@ -9,8 +9,8 @@ This table tracks the proposed updates to ensure student readiness. A key change
 | **CIT 82** | Intro to AI & Web | None| **Advisory: CIT 48A OR CIT 15** |
 | **CIT 85** | Applied HTML/CSS | None | **Advisory: CIT 82** |
 | **CIT 28** | SQL | None | **Advisory: CIT82 & CIT85** |
-| **CIT 93** | JavaScript | None | ***Advisory: CIT82 & CIT85**  |
-| **CIT 94** | AI Web Workflows | None| ***Advisory: CIT82, CIT85 & CIT93**  |
+| **CIT 93** | JavaScript | None | **Advisory: CIT82 & CIT85**  |
+| **CIT 94** | AI Web Workflows | None| **Advisory: CIT82, CIT85 & CIT93**  |
 
 
 ## First Draft
