@@ -7,25 +7,14 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 
 ## 📢 Upcoming Meetings
 
-#### 📋 Please Review Before the Meeting:
-To ensure we can finalize our submission within the hour, please review these three key drafts:
-1. **[The Success Audit Skills](curriculum-planning/student-readiness-system.md):** Review the "3 Minimum Day-1 Skills" for your specific course. Are these the right technical targets for the Bridge?
-2. **[The Advisory Pathway](curriculum-planning/pathway-and-requisites.md):** Review the move from Prerequisites to Advisories based on our April 15th consensus.
-3. **[Market Analysis](curriculum-planning/market-analysis-and-career-impact.md):** Familiarize yourself with the "AI Premium" data to help strengthen our Title 5 rationale.
-
-#### 📝 Official Workgroup Meeting
-* **Objective:** Approve Title 5 Requisites and finalize the "Day-1 Handshake" skills.
-* **Date:** Wednesday, April 22nd
-* **Time:** 2:50 PM to 4 PM
-* **Location:** BE-120 or Zoom
-
-* **2:50pm – 3:05pm:** Welcome & Final Check-in
-* **3:05pm – 3:25pm:** **Market Analysis & Career Impact:** How the "AI Salary Premium" justifies our new rigor.
-* **3:25pm – 3:45pm:** **Final Approval:** Requisites/Advisories & the Student Readiness System.
-* **3:45pm – 4:00pm:** **Naming & Next Steps:** Finalizing the program title and submission timeline.
+### **Action Items for Next Meeting**
+* **Research:** Review job postings to see which titles (e.g., "Applied AI," "Web Engineer") carry the most industry weight.
+* **Zoom Meeting (4/29):** Zoom Only Meeting to hash out the top 4–5 name candidates for name of program name.
+* **Full Meeting (5/6):** Final vote on the program name and review of the "Option" course list.
 
 
 ## Previous Meeting Notes
+* [4-22-2026](meeting-notes/2026-04-22-notes.md)
 * [4-08-2026](meeting-notes/2026-04-08-notes.md) 
 * [3-18-2026](meeting-notes/2026-03-18-notes.md) 
 
