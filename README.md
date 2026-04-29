@@ -8,9 +8,20 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ## 📢 Upcoming Meetings
 
 ### **Action Items for Next Meeting**
-* **Research:** Review job postings to see which titles (e.g., "Applied AI," "Web Engineer") carry the most industry weight.
-* **Zoom Meeting (4/29):** Zoom Only Meeting to hash out the top 4–5 name candidates for name of program name.
-* **Full Meeting (5/6):** Final vote on the program name and review of the "Option" course list.
+* **Full Meeting (5/6):** 
+  * Vote on program name:
+    * AI Skilled Web Development 
+    * Emerging Web Technologies
+    * Web Development
+  * Discussion on updated [Prerequisite](curriculum-planning/pathway-and-requisites.md)
+  * Discussion on options classes
+    * CIT 63 Java
+    * CIT 84 Web Development Frameworks
+    * CIT 94 (moved to the core)
+    * CIT 95 Python
+    * CIT 99 (remove)
+
+
 
 
 ## Previous Meeting Notes
