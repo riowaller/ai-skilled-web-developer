@@ -13,6 +13,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
     * AI Skilled Web Development 
     * Emerging Web Technologies
     * Web Development
+  * Discussion on [Student Survey](curriculum-planning/student-branding-survey.md)
   * Discussion on updated [Prerequisite](curriculum-planning/pathway-and-requisites.md)
   * Discussion on options classes
     * CIT 63 Java

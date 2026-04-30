@@ -3,7 +3,7 @@
 ## 📊 Prerequisite Tracker
 This table tracks the proposed updates to ensure student readiness. A key change is the introduction of **CIT 48A (IT+ Fundamentals)** as a more rigorous alternative to CIT 15.
 
-## Current Proposal after Meeting on April 29
+## Proposal after Meeting on April 29 (Breanna's Idea)
 | Course | Title | Current Prerequisite | **Proposed Update / Advisory** |
 | :--- | :--- | :--- | :--- |
 | **CIT 82** | Intro to AI & Web | None| **Advisory: CIT 48A OR CIT 15** |
