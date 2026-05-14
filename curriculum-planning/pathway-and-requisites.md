@@ -15,26 +15,27 @@ This table represents the formal curriculum changes as of April 29. It balances 
 ---
 
 ## 🛣️ The "Student Success" Map (Recommended Sequence)
-*This sequence optimizes the flow of "Advisories" to reduce technical friction.*
+*This sequence optimizes the flow of "Advisories" and manages cognitive workload across the certificate.*
 
-### **Phase 1: Entry**
-* **CIT 48A / CIT 15:** Foundational Computer Literacy.
-* **CIT 82:** Introduction to AI and Web Development.
+### **Semester 1: The Gateway (Sequential 9-Week Blocks)**
+* **CIT 82:** Intro to AI & Web (Weeks 1-9)
+* **CIT 85:** Applied HTML/CSS (Weeks 10-18)
+* *Note: Establishes the "Mechanical Shop" workflow (Git/VS Code) early.*
 
-### **Phase 2: The Structural Core**
-* **CIT 85:** Applied HTML and CSS. 
-* *Note: Completion of this course provides the necessary context for the logic-heavy courses in Phase 3.*
+### **Semester 2: The Logic Pillar (Full 18-Week Term)**
+* **CIT 93:** JavaScript.
+* *Pedagogical Focus: Isolated focus on programming logic to prevent cognitive overload.*
 
-### **Phase 3: Programming & Data**
-* **CIT 93:** JavaScript (Logic).
+### **Semester 3: Data & Integration (Full 18-Week Term)**
 * **CIT 28:** SQL (Data Modeling).
-
-### **Phase 4: Orchestration**
 * **CIT 94:** AI Web Workflows (Capstone).
+* *Pedagogical Focus: High-level synthesis. CIT 28 provides the data layer for CIT 94 projects.*
 
 ---
 
 ## 🧠 Workgroup Rationale
-1. **The Prerequisite Tier:** By keeping **CIT 48A / 15 / 82** as the hard prerequisite for the core, we ensure that every student entering the technical track has at least one foundational "computer science" course under their belt.
-2. **The Advisory Tier:** We use **Advisories** for CIT 85 to signal to students that while we won't "block" their registration for SQL or JS, their success is significantly higher if they have mastered HTML/CSS first. 
-3. **Flexible Entry for CIT 85:** CIT 85 remains the most flexible entry point into actual coding, allowing students from any of the three foundational paths to start building immediately.
+
+1. **The Prerequisite Tier:** By keeping **CIT 48A / 15 / 82** as the hard prerequisite for the technical core, we ensure every student has mastered foundational OS and file-system navigation before entering lab-intensive courses.
+2. **Context-Specific Advisories:** While CIT 28 is a first-term course for Data Analytics, the **Advisory: CIT 85** is provided specifically for Web Developer students. This ensures they understand the *destination* of the data (the web interface) before learning the *storage* of the data (SQL).
+3. **Cognitive Load Management:** The sequence is designed to isolate **CIT 93 (JavaScript)**. By separating it from **CIT 28**, we allow students to focus on functional logic without the distraction of declarative database modeling, improving pass rates in our most challenging course.
+4. **The "Mechanical Shop" Handshake:** CIT 85 serves as the technical "handshake." By advising it before 93 and 28, we ensure instructors in those courses can focus on high-level concepts rather than teaching fundamental web structure or Git basics.
