@@ -7,14 +7,14 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 
 ## 📢 Upcoming Meetings
 
-### **Full Meeting (52/0): Strategic Finalization**
+### **Full Meeting (5/20): Strategic Finalization**
 * **Discuss:** Program Name and Student Branding Survey
 * **Review:** [Student Branding Survey](curriculum-planning/student-branding-survey.md).
 * **Approval:** [Pathway and Requisites (5/06 Consensus)](curriculum-planning/pathway-and-requisites.md).
 * **Discussion:** Options classes (CIT 63, 84, 95) and the removal of CIT 99.
 
 ## 📝 Previous Meeting Notes
-* [5-06-2026] Coming Soon
+* [5-06-2026](meeting-notes/2026-05-06-notes.md)
 * [4-22-2026](meeting-notes/2026-04-22-notes.md)
 * [4-08-2026](meeting-notes/2026-04-08-notes.md) 
 * [3-18-2026](meeting-notes/2026-03-18-notes.md)
