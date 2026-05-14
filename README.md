@@ -21,7 +21,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ---
 
 ## ✅ Finalized Strategy Documents
-*   **[`pathway-and-requisites.md`](curriculum-planning/pathway-and-requisites.md):** 4/29 Consensus reached on the **Advisory-First** model and the **1.5-year / 3-Semester** sequence.
+*   **[`pathway-and-requisites.md`](curriculum-planning/pathway-and-requisites.md):** 5/06 Consensus reached on the **Advisory-First** model and the **1.5-year / 3-Semester** sequence.
 *   **[`student-readiness-system.md`](curriculum-planning/student-readiness-system.md):** Defines the "Technical Handshake" and **Supportive Entry** bridge for transfer students.
 *   **[`compliance-and-coding.md`](curriculum-planning/compliance-and-coding.md):** Maps the program to **CIP 11.0104 (Informatics)** and Title 5 Equity standards.
 *   **[`market-analysis-and-career-impact.md`](curriculum-planning/market-analysis-and-career-impact.md):** Establishes the "AI Premium" labor market rationale.
