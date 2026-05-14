@@ -4,7 +4,10 @@
 Per the 2026 federal and state taxonomy deadlines, the program is transitioning from legacy TOP codes to the **Classification of Instructional Programs (CIP)**.
 
 *   **Proposed CIP Code:** **11.0104 (Informatics)**
-*   **Rationale:** This code best reflects the evolution of the "AI-Skilled" program from simple syntax instruction to **Information Orchestration**. 11.0104 covers the bridge between technical development (manual coding) and systemic integration (AI/Data modeling). This alignment ensures the program remains eligible for "Emerging Technology" funding and matches 2026 labor market data for high-wage "Solutions Architect" pathways.
+*   **Rationale & Justification:** 
+    *   **Beyond Syntax:** While traditional programming codes focus on language mastery, 11.0104 reflects the shift toward **Information Orchestration**. Our students aren't just writing code; they are managing the flow of data between manual logic, SQL databases, and AI models.
+    *   **The "AI Architect" Distinction:** Industry standards for 2026 distinguish between "AI Consumers" and "AI Architects." This code signals that our graduates possess the architectural oversight required to audit and secure AI-driven systems.
+    *   **Interdisciplinary Handshake:** Informatics covers the "Human-Computer Interaction" (HCI) that is central to our **Mechanical Shop** pedagogy—ensuring the human remains the primary architect of the technical solution.
 
 ---
 
