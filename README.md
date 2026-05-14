@@ -7,11 +7,19 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 
 ## 📢 Upcoming Meetings
 
+
 ### **Full Meeting (5/20): Strategic Finalization**
-* **Discuss:** Program Name and Student Branding Survey
+* **Discuss:** Program Name and Student Branding Survey - https://forms.gle/vbmDE1JngxbYoyXL7
 * **Review:** [Student Branding Survey](curriculum-planning/student-branding-survey.md).
 * **Approval:** [Pathway and Requisites (5/06 Consensus)](curriculum-planning/pathway-and-requisites.md).
 * **Discussion:** Options classes (CIT 63, 84, 95) and the removal of CIT 99.
+
+## 📢 Recent Activity & Decisions (5/06 Meeting)
+
+*   **Program Name Vote:** "AI Skilled Web Development" is the primary candidate (7 votes). Student survey launched 5/15 to finalize.
+*   **Prerequisite Consensus:** Confirmed "Big Door" strategy. CIT 82/15/48A serve as the foundational "OR" prerequisites for the core (85, 93, 28, 94).
+*   **Pedagogical Pivot:** Agreed to "Language Agnostic" programming concepts for introductory work, using "Vibe Coding" (AI-orchestration) as the primary instructional method.
+*   **Success Bridge:** Summer project initiated for Rio and Rick to develop the "Module 0" Readiness Canvas modules.
 
 ## 📝 Previous Meeting Notes
 * [5-06-2026](meeting-notes/2026-05-06-notes.md)
