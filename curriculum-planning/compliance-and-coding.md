@@ -6,20 +6,21 @@ Per the 2026 federal and state taxonomy deadlines, the program is transitioning 
 *   **Proposed CIP Code:** **11.0104 (Informatics)**
 *   **Rationale & Justification:** 
     *   **Beyond Syntax:** While traditional programming codes focus on language mastery, 11.0104 reflects the shift toward **Information Orchestration**. Our students aren't just writing code; they are managing the flow of data between manual logic, SQL databases, and AI models.
-    *   **The "AI Architect" Distinction:** Industry standards for 2026 distinguish between "AI Consumers" and "AI Architects." This code signals that our graduates possess the architectural oversight required to audit and secure AI-driven systems.
+    *   **The "AI Architect" Distinction:** Industry standards distinguish between "AI Consumers" and "AI Architects." This code signals that our graduates possess the architectural oversight required to audit and secure AI-driven systems.
     *   **Interdisciplinary Handshake:** Informatics covers the "Human-Computer Interaction" (HCI) that is central to our **Mechanical Shop** pedagogy—ensuring the human remains the primary architect of the technical solution.
 
 ---
 
 ## 2. Common Course Numbering (CCN) & Requisite Logic
-To satisfy **AB 1111** requirements and maintain enrollment flexibility, we utilize a "Multiple Entry" strategy for the 2026–2028 cycle.
+To satisfy **AB 1111** requirements and maintain enrollment flexibility, we utilize a "Multiple Entry" strategy paired with a clean upper-tier capstone gatekeeper for the 2026–2028 cycle.
 
 | Course | Proposed Requisite Status | Alignment / Rationale |
 | :--- | :--- | :--- |
 | **CIT 82** | **Advisory:** CIT 48A or CIT 15 | **Preferred Path:** CIT 48A (ITIS 110) for technical depth. **General Path:** CIT 15 (ITIS 120) for broader accessibility. |
 | **CIT 85/93/28** | **Prerequisite:** CIT 48A, 15, or 82 | Ensures foundational computer literacy and file-system mastery before entry into "Mechanical Shop" labs. |
+| **CIT 84** | **Prerequisite:** CIT 93 <br>**Advisory:** CIT 85 & CIT 28 | **The Capstone Pipeline:** Enforces standard code compilation and debugging competence (JavaScript) before launching into automated application framework orchestration. |
 
-**Workgroup Consensus:** By utilizing **Advisories** for the entry course (CIT 82) and keeping the core (85, 93, 28) open to anyone with *any* foundational computer course, we fulfill the mandate to reduce institutional barriers while maintaining the technical rigor required for the "AI-Skilled" designation.
+**Workgroup Consensus:** By utilizing **Advisories** for the entry course (CIT 82) and keeping the technical entry tier open to anyone with *any* foundational computer course, we fulfill the mandate to reduce institutional barriers. Restricting the final frameworks course (**CIT 84**) to students with core JavaScript experience guarantees academic safety and high project completion rates.
 
 ---
 
@@ -37,6 +38,8 @@ To maintain 100% online/hybrid readiness, the Course Outlines of Record (COR) sp
 
 *   **Generative AI Tools:** Official inclusion of LLMs as "Auxiliary Instructional Materials" for debugging, documentation, and logic explanation.
 *   **Authentication & Integrity:** Utilizing **Technical Interviews** and **Video-Based Walkthroughs** as the primary method of student authentication, ensuring that the student is the human-in-the-loop architect of all submitted work.
+
+---
 
 # 📄 Finalized Catalog & Curriculum Modification Copy (May 2026)
 
