@@ -10,16 +10,16 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ### **Full Meeting (5/20): Strategic Finalization**
 * **Discuss:** Program Name and Student Branding Survey - https://forms.gle/vbmDE1JngxbYoyXL7
 * **Review:** [Student Branding Survey](curriculum-planning/student-branding-survey.md).
-* **Approval:** [Pathway and Requisites (5/06 Consensus)](curriculum-planning/pathway-and-requisites.md).
-* **Discussion:** Options classes (CIT 63, 95), the conversion of CIT 84 to AI Web Workflows, and the removal of CIT 99.
+* **Approval:** [Pathway and Requisites (Updated 2-Year Consensus)](curriculum-planning/pathway-and-requisites.md).
+* **Discussion:** Finalizing the approved programming options list (e.g., CIT 63, CIT 95) and the removal of CIT 99.
 
 ---
 
-## 📢 Recent Activity & Decisions (5/06 Meeting)
+## 📢 Recent Activity & Decisions (5/19 Workgroup Pivot)
 
-*   **Program Name Vote:** "AI Skilled Web Development" is the primary candidate (7 votes). Student survey launched 5/15 to finalize.
-*   **Prerequisite Consensus:** Confirmed "Big Door" strategy. CIT 82/15/48A serve as the foundational "OR" prerequisites for the core (85, 93, 28, 84).
-*   **Pedagogical Pivot:** Agreed to "Language Agnostic" programming concepts for introductory work, using "Vibe Coding" (AI-orchestration) as the primary instructional method.
+*   **Program Timeline Re-architecture:** Shifted from a 1.5-year track to a **2-Year / 4-Semester** roadmap. This expansion addresses critical faculty concerns regarding cognitive overload and ensures strict **Syntax Isolation** so students never study conflicting programming languages concurrently.
+*   **Capstone Course Realignment:** Agreed to modify **CIT 84 (AI Web Workflows and Frameworks)** as the official Semester 4 program capstone, leveraging its existing JavaScript prerequisite and replacing the previous plan to modify CIT 94.
+*   **Program Name Vote:** "AI Skilled Web Development" remains the primary candidate (7 votes). Student survey launched 5/15 to finalize.
 *   **Success Bridge:** Summer project initiated for Rio and Rick to develop the "Module 0" Readiness Canvas modules.
 
 ---
@@ -33,7 +33,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ---
 
 ## ✅ Finalized Strategy Documents
-*   **[`pathway-and-requisites.md`](curriculum-planning/pathway-and-requisites.md):** 5/06 Consensus reached on the **Advisory-First** model and the **1.5-year / 3-Semester** sequence.
+*   **[`pathway-and-requisites.md`](curriculum-planning/pathway-and-requisites.md):** Updated 5/19 to reflect the **Language-Isolated 2-Year Sequence** and core elective slots.
 *   **[`student-readiness-system.md`](curriculum-planning/student-readiness-system.md):** Defines the "Technical Handshake" and **Supportive Entry** bridge for transfer students.
 *   **[`compliance-and-coding.md`](curriculum-planning/compliance-and-coding.md):** Maps the program to **CIP 11.0104 (Informatics)** and Title 5 Equity standards.
 *   **[`market-analysis-and-career-impact.md`](curriculum-planning/market-analysis-and-career-impact.md):** Establishes the "AI Premium" labor market rationale.
@@ -45,7 +45,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 *   **[`cit85-html-css.md`](courses/cit85-html-css.md):** 📅 Scheduled for late May.
 *   **[`cit93-javascript.md`](courses/cit93-javascript.md):** 📅 Scheduled for June.
 *   **[`cit28-sql.md`](courses/cit28-databases.md):** 📅 Awaiting Data Analytics alignment discussion.
-*   **[`cit84-ai-web-workflows.md`](courses/cit84-ai-web-workflows.md):** 🚧 **NEW PIVOT:** Converting Frameworks to AI Workflows Capstone.
+*   **[`cit84-ai-web-workflows.md`](courses/cit84-ai-web-workflows.md):** 🚧 **NEW CAPSTONE DETAILED:** Course Revision Tracker complete.
 
 ---
 
