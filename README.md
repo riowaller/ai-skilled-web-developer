@@ -8,7 +8,8 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ## 📢 Upcoming Meetings
 
 ### **Full Meeting (5/20): Strategic Finalization**
-* **Discuss:** Program Name and Student Branding Survey - https://forms.gle/vbmDE1JngxbYoyXL7
+* **Discuss:** Program Name and Student Branding Survey - https://forms.gle/vbmDE1JngxbYoyXL7 
+    * [Current Survey Results](https://docs.google.com/forms/d/e/1FAIpQLSePwij6VLhrwq6KHs9MxVMhq-bpBNBGf-ZuGbRt1Zm2-fBdMQ/viewform?usp=sharing&ouid=111907449377670083372)
 * **Review:** [Student Branding Survey](curriculum-planning/student-branding-survey.md).
 * **Approval:** [Pathway and Requisites (Updated 2-Year Consensus)](curriculum-planning/pathway-and-requisites.md).
 * **Discussion:** Finalizing the approved programming options list (e.g., CIT 63, CIT 95) and the removal of CIT 99.
