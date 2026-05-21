@@ -7,11 +7,39 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 
 ## 📢 Upcoming Meetings
 
-### **Full Meeting (5/20): Strategic Finalization**
-* **Discuss:** Program Name and Student Branding Survey - https://forms.gle/vbmDE1JngxbYoyXL7 
-* **Review:** [Current Survey Results](StudentBrandingSurvey.pdf).
-* **Approval:** [Pathway and Requisites (Updated 2-Year Consensus)](curriculum-planning/pathway-and-requisites.md).
-* **Discussion:** Finalizing the approved programming options list (e.g., CIT 63, CIT 95) and the removal of CIT 99.
+# CIT Workgroup Meeting Agenda: Core Consolidation
+**Date:** Wednesday, May 27, 2026  
+**Location:** Zoom Link TBA  
+
+---
+
+## 1. The 4-Semester Core Sequence Lock-In (15 Mins)
+*Objective: Solidify the exact unit loads and course expectations for the newly streamlined, elective-free track.*
+*   **Semester 1 (The Foundational Trio):** CIT 82 (Intro to AI and Web Dev) + CIT 85 (HTML/CSS) + CIT 60 (Coding Concepts). 
+    *   *Action:* Review Dennis's progress on updating CIT 60 as an 18-week, language-agnostic conceptual framework to prepare students for the coding core.
+*   **Semester 2 (The Logic Pillar):** CIT 93 (JavaScript) running in complete syntax isolation.
+*   **Semester 3 (The Data Layer):** CIT 28 (SQL). Finalizing data analytics alignment and discussing structural lab scope.
+*   **Semester 4 (The Capstone):** CIT 84 (Agentic AI). Finalize the transition of this framework course into our advanced agentic orchestration capstone.
+
+## 2. Naming & Branding: The "AI" Label Alternative (15 Mins)
+*Objective: Brainstorm alternative program and course titles that bypass current public/academic hostility while preserving Liz's approved "True Integration" model.*
+*   **Discussion:** If "AI-Skilled Web Development" risks looking dated or drawing academic backlash, what is our alternative nomenclature?
+    *   *Candidates to review:* "Web Informatics and Automation," "Modern Web Workflows," or "Full-Stack Web Orchestration."
+*   **Advisory Board Prep:** Structuring the wording for the summer Board of Advisors voting packet (Rio & Breanna).
+
+## 3. CurricUNET Revisions & Regional Alignment (15 Mins)
+*Objective: Align backend paperwork and transfer documentation across the district.*
+*   **Multi-Campus Check-in:** Updates on outreach to faculty at Madera, Reedley, and Clovis regarding class equivalencies to prevent cross-district friction.
+*   **Perkins Funding & CIP:** Reviewing the coordination strategy with Kelly O'Rourke to shift our taxonomy to the **Informatics** classification to safeguard CTE funding.
+
+## 4. Standardizing DEI Curriculum Language (15 Mins)
+*Objective: Establish our unified template for Diversity, Equity, and Inclusion inside CurricUNET.*
+*   **Framework:** Reviewing the balance between district-standardized DEI blocks and preserving individual faculty freedom to specify course-level context within the COR.
+
+---
+**Action Items for This Week:**
+*   **Dennis:** Bring rough draft concepts for the re-imagined CIT 60.
+*   **Rio:** Demonstrate the CurricUNET sandbox layout and the comparison bridge links for workgroup review.
 
 ---
 
