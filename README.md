@@ -25,6 +25,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ---
 
 ## 📝 Previous Meeting Notes
+* [5-20-2026](meeting-notes/2026-05-20-notes.md)
 * [5-06-2026](meeting-notes/2026-05-06-notes.md)
 * [4-22-2026](meeting-notes/2026-04-22-notes.md)
 * [4-08-2026](meeting-notes/2026-04-08-notes.md) 
