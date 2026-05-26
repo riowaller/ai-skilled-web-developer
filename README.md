@@ -77,7 +77,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 *   **[`cit85-html-css.md`](courses/cit85-html-css.md):** 📅 Scheduled for late May.
 *   **[`cit93-javascript.md`](courses/cit93-javascript.md):** 📅 Scheduled for June.
 *   **[`cit28-sql.md`](courses/cit28-databases.md):** 📅 Awaiting Data Analytics alignment discussion.
-*   **[`cit84-ai-workflows.md`](courses/cit84-ai-web-workflows.md):** 🚧 **NEW CAPSTONE DETAILED:** Course Revision Tracker complete.
+*   **[`cit84-ai-workflows.md`](courses/cit84-ai-workflows.md):** 🚧 **NEW CAPSTONE DETAILED:** Course Revision Tracker complete.
 
 ---
 
