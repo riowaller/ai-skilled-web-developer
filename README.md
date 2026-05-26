@@ -9,9 +9,10 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 
 # CIT Workgroup Meeting Agenda: Core Consolidation
 **Date:** Wednesday, May 27, 2026  
-**Location:** Zoom
+**Location:** Zoom  
 **Student Survey Results:** [Results](StudentBrandingSurvey.pdf)
-*    Thanks to Dennis we now 25 students that have filled out the survey! 
+
+* Thanks to Dennis, we now have 25 students that have filled out the survey!
 
 ---
 
