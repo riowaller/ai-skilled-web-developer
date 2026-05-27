@@ -8,12 +8,15 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ## 📢 Upcoming Meetings
 
 # CIT Workgroup Meeting Agenda: Core Consolidation
-**Date:** Wednesday, May 27, 2026  
+**Date:** Wednesday, July 8, 2026  
 **Location:** Zoom  
 **Student Survey Results:** [Results](StudentBrandingSurvey.pdf)
 
-* Thanks to Dennis, we now have 25 students that have filled out the survey!
-
+#### Action Items & Next Steps
+* **Rio:** Email Liz immediately to clarify if an advisory committee vote is required if the program name remains "Web Development" but the description changes.
+* **Lori:** Pull an Excel list of students who have taken programming courses (Python, Java, C++, etc.) so the team can gather more survey data. 
+* **Rick & Rio:** Review and update the survey before sending it out to Lori's expanded student list.
+* **All:** The next meeting is scheduled for Wednesday, July 8th.
 ---
 
 ## 1. The 4-Semester Core Sequence Lock-In (15 Mins)
@@ -56,6 +59,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ---
 
 ## 📝 Previous Meeting Notes
+* [5-27-2026](meeting-notes/2026-05-27-notes.md)
 * [5-27-2026 Reedley Comminity College IS Faculty](meeting-notes/2026-05-27-notes-rcc.md) 
 * [5-20-2026](meeting-notes/2026-05-20-notes.md)
 * [5-06-2026](meeting-notes/2026-05-06-notes.md)
