@@ -1,6 +1,40 @@
 # CIT 82: Course Revision Tracker
 
-## Course Title Revision
+# 🏛️ CIT 82: Intro to AI and Web Development
+
+> 📄 **Official Curriculum System Record:** [Download CurricUNET PDF Export](../curriculum-pdfs/cit82-export.pdf)  
+> **Current Status:** 🚧 System Entry Pending (Draft Phase)
+
+---
+
+### 🏁 Launch Checklist (System vs. Plan Gaps)
+* [ ] **Taxonomy Reclassification** (Rio) — Coordinate a backdoor pathway with Kelli O'Rourke (Senior Curriculum Analyst) to administratively update CB03: Top Code from 0709.00 to the modern Informatics CIP Classification to secure long-term Perkins CTE funding.
+* [ ] **CIT 48A Backend Dependency Link** (Rio) — Monitor and verify that CIT 48A has been transitioned into "Draft Status" in the curriculum system, ensuring its Requisite Course Objectives are explicitly mapped to support the active CIT 82 Advisory listing.
+* [ ] **System SLO Expansion Entry** (Rio) — Manual entry required to expand the current 1-SLO system architecture into a 3-SLO model by inputting the newly proposed AI Auditing and Security metrics (SLOs 2 and 3 below).
+* [ ] **DEI System Verification** (All Faculty) — Review the currently saved Title 5 § 55001 Description of Approaches block (reproduced below) during the July 8 workgroup meeting to determine if this phrasing will serve as our standard, department-wide template.
+
+---
+
+## 🏛️ System vs. Plan Alignment Reference
+
+### 1. Requisite Verification Status
+* **Current System Advisories:** CIT 15 and CIT 48A.
+* **Status:** Aligned with consensus plan. No further system adjustments needed aside from binding the backend objectives once CIT 48A goes into Draft.
+
+### 2. Student Learning Outcomes (SLOs) Reconstruction
+The system currently records only a single outcome. The database must be updated to match this rigorous 3-tier framework:
+1.  **SLO 1 (Technical - Currently in System):** Demonstrate an understanding of contemporary web technologies and AI prompting techniques in relation to authoring, distributing, and browsing.
+2.  **SLO 2 (AI Literacy - PENDING ENTRY):** Document and submit a structured prompt-engineering log tracking how generative models were utilized for debugging, error analysis, or conceptual web-layout explanation.
+3.  **SLO 3 (Security & Integrity - PENDING ENTRY):** Identify basic security vulnerabilities, intellectual property concerns, and deprecated semantic bugs in AI-suggested code snippets before local environment integration.
+
+### 3. Current Live DEI Description (Title 5 § 55001)
+*This is the official text currently locked inside your latest system export:*
+> "Faculty promote diversity, equity, and inclusion in CIT 82 through student-centered instructional practices that support learners with varied technical backgrounds, preparation levels, and educational goals. Course materials and evaluations are structured to eliminate historical barriers to technology entry through the deployment of early diagnostic success audits and supportive bridge labs. By integrating structured AI prompting techniques, the curriculum democratizes access to digital creation, allowing students without prior syntax or programming exposure to successfully brainstorm, organize, and author web content. Course topics are consistently connected to diverse, real-world professional contexts, and zero-cost digital resources ensure financial barriers do not impede student equity, fostering an inclusive environment for all learners entering the modern digital workforce."
+
+---
+
+## ⏳ Legacy Revision Tracking Log & Historical Workgroup Notes
+
 | **Section** | **Current Text** | **Proposed Text** | **Rationale for Change** |
 | :--- | :--- | :--- | :--- |
 | **Course Title** | Introduction to Web Development | **Introduction to AI and Web Development** | Modernized the title to reflect the integrated nature of the curriculum, emphasizing that AI is now a foundational tool alongside traditional web technologies. |
