@@ -1,5 +1,3 @@
-# CIT 82: Course Revision Tracker
-
 # 🏛️ CIT 82: Intro to AI and Web Development
 
 > 📄 **Official Curriculum System Record:** [Download CurricUNET PDF Export](../curriculum-pdfs/cit82-export.pdf)  
@@ -9,7 +7,7 @@
 
 ### 🏁 Launch Checklist (System vs. Plan Gaps)
 * [ ] **Taxonomy Reclassification** (Rio) — Coordinate a backdoor pathway with Kelli O'Rourke (Senior Curriculum Analyst) to administratively update CB03: Top Code from 0709.00 to the modern Informatics CIP Classification to secure long-term Perkins CTE funding.
-* [ ] **CIT 48A Backend Dependency Link** (Rio) — Monitor and verify that CIT 48A has been transitioned into "Draft Status" in the curriculum system, ensuring its Requisite Course Objectives are explicitly mapped to support the active CIT 82 Advisory listing.
+* [ ] **CIT 48A Backend Dependency Link** (Rio and Verne) — Monitor and verify that CIT 48A has been transitioned into "Draft Status" in the curriculum system, ensuring its Requisite Course Objectives are explicitly mapped to support the active CIT 82 Advisory listing.
 * [ ] **System SLO Expansion Entry** (Rio) — Manual entry required to expand the current 1-SLO system architecture into a 3-SLO model by inputting the newly proposed AI Auditing and Security metrics (SLOs 2 and 3 below).
 * [ ] **DEI System Verification** (All Faculty) — Review the currently saved Title 5 § 55001 Description of Approaches block (reproduced below) during the July 8 workgroup meeting to determine if this phrasing will serve as our standard, department-wide template.
 
