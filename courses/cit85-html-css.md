@@ -1,6 +1,34 @@
-# CIT 85: Course Revision Tracker
+# 🏛️ CIT 85: HTML and CSS
 
-## Course Title & Description Revision
+> 📄 **Official Curriculum System Record:** [Download CurricUNET PDF Export](../curriculum-pdfs/cit85-export.pdf)  
+> **Current Status:** 🚧 System Entry Pending (Draft Phase)
+
+---
+
+### 🏁 Launch Checklist (System vs. Plan Gaps)
+* [ ] **Taxonomy Reclassification** (Rio) — Coordinate a backdoor pathway with Kelli O'Rourke (Senior Curriculum Analyst) to administratively update CB03: Top Code from 0707.10 to the modern Informatics CIP Classification to secure long-term Perkins CTE funding.
+* [ ] **Week 2 Readiness Bridge** (Rick & Rio) — Develop the "Module 0" front-end baseline canvas module to evaluate student comprehension of the CIT 82 environment structures.
+* [ ] **DEI System Verification** (All Faculty) — Review the currently saved Title 5 § 55001 Description of Approaches block (reproduced below) during the July 8 workgroup meeting to determine if this phrasing will serve as our standard, department-wide template.
+
+---
+
+## 🏛️ System vs. Plan Alignment Reference
+
+### 1. Requisite Verification Status
+* **Current System Prerequisites:** CIT 82 and CIT 15.
+* **Status:** Fully aligned with the 2-year sequence. This enforces that entering students have already mastered basic file directory management and version control environment pathways.
+
+### 2. Student Learning Outcomes (SLOs) Status
+The system currently records a robust 2-SLO framework that matches the pedagogical standards of the workgroup; no additional system entry is required:
+1.  **SLO 1 (Technical - Live in System):** Design, hand-code, and publish a multi-page responsive website using modern semantic HTML5 structures and CSS layout techniques (including Flexbox, Grid, and media queries) that conforms to current industry deployment standards.
+2.  **SLO 2 (AI Integration - Live in System):** Utilize AI-driven development tools as an assistant to troubleshoot syntax errors, explain layout logic, and audit source code for W3C standards and web accessibility compliance.
+
+### 3. Current Live DEI Description (Title 5 § 55001)
+*This is the official text currently locked inside your latest system export:*
+> "Faculty promote diversity, equity, and inclusion in CIT 85 through student-centered instructional practices that support learners with varied technical backgrounds, preparation levels, and educational goals. Course materials and evaluations are structured to eliminate historical barriers to technology entry through the deployment of early diagnostic success audits and supportive bridge labs. By integrating structured AI prompting for code comprehension, debugging, and syntax explanation, the curriculum democratizes access to front-end web authoring, allowing students without prior technical exposure to successfully analyze, organize, and hand-code semantic HTML and CSS. Course projects are consistently connected to diverse, real-world professional contexts-including web accessibility (W3C/WCAG) compliance to foster inclusion for users with disabilities-and zero-cost digital resources ensure financial barriers do not impede student equity, fostering an inclusive environment for all learners entering the modern digital workforce."
+
+---
+## ⏳ Legacy Revision Tracking Log & Historical Workgroup Notes
 
 | **Section** | **Current Text** | **Proposed Text** | **Rationale for Change** |
 | :--- | :--- | :--- | :--- |
