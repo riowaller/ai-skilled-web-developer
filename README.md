@@ -10,7 +10,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 # CIT Workgroup Meeting Agenda: Core Consolidation
 **Date:** Wednesday, July 8, 2026  
 **Location:** Zoom  
-**Student Survey Results:** [Results](StudentBrandingSurvey.pdf) as of 5-20-20206
+**Student Survey Results:** [Results](StudentBrandingSurvey.pdf) as of 6-01-20206
 
 #### Action Items & Next Steps
 * **Rio:** Email Liz immediately to clarify if an advisory committee vote is required if the program name remains "Web Development" but the description changes. **(Done)**
