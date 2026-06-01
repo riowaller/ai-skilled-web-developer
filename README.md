@@ -79,12 +79,12 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ---
 
 ## 📁 Course Revision Status (Construction Zone)
-*   **[`cit82-intro-ai-web-dev.md`](courses/cit82-intro-web-dev.md):** 🚧 **CURRENT TASK:** Drafting SLOs and Course Description.
-*   **[`cit85-html-css.md`](courses/cit85-html-css.md):** 📅 Scheduled for late May.
-*   **[`cit93-javascript.md`](courses/cit93-javascript.md):** 📅 Scheduled for June.
-*   **[`cit28-sql.md`](courses/cit28-databases.md):** 📅 Awaiting Data Analytics alignment discussion.
-*   **[`cit84-agentic-ai.md`](courses/cit84-agentic-ai.md):** 🚧 **NEW CAPSTONE DETAILED:** Course Revision Tracker complete.
-
+*   **[`cit82-intro-ai-web-dev.md`](courses/cit82-intro-web-dev.md):** 🚧 **Updated CURRENT TASKs:** 
+*   **[`cit85-html-css.md`](courses/cit85-html-css.md):** 🚧 **Updated CURRENT TASKs:** 
+*   **cit60-coding-concepts.md`:** Action Item: Dennis need to update title and create curriculum tracking documents.
+*   **[`cit28-sql.md`](courses/cit28-databases.md):**** 🚧 **Updated CURRENT TASKs:** 
+*   **[`cit93-javascript.md`](courses/cit93-javascript.md):** Scheduled for July 1.
+*   **[`cit84-agentic-ai.md`](courses/cit84-agentic-ai.md):** 🚧 **NEW CAPSTONE DETAILED:** Action item: Rick and Rio need to review
 ---
 
 ## 🧠 Core Pedagogy: The "Mechanical Shop"
