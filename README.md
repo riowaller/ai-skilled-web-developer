@@ -13,9 +13,10 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 **Student Survey Results:** [Results](StudentBrandingSurvey.pdf) as of 6-01-20206
 
 #### Action Items & Next Steps
+* **Rio:** Draft of Slide for Advisory Committee Meeting on June 24 8am to 12:30pm.  [First Draft](advisory_committe_slide.pdf)
 * **Rio:** Email Liz immediately to clarify if an advisory committee vote is required if the program name remains "Web Development" but the description changes. **(Done)**
-* **Lori:** Pull an Excel list of students who have taken programming courses (Python, Java, C++, etc.) so the team can gather more survey data.  *(Done)**
-* **Rick & Rio:** Review and update the survey before sending it out to Lori's expanded student list. *(Done)**
+* **Lori:** Pull an Excel list of students who have taken programming courses (Python, Java, C++, etc.) so the team can gather more survey data.  **(Done)**
+* **Rick & Rio:** Review and update the survey before sending it out to Lori's expanded student list. **(Done)**
 * **All:** The next meeting is scheduled for Wednesday, July 8th.
 ---
 
