@@ -10,7 +10,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 # CIT Workgroup Meeting Agenda: Core Consolidation
 **Date:** Wednesday, July 8, 2026  
 **Location:** Zoom  
-**Student Survey Results:** [Results](StudentBrandingSurvey.pdf) as of 7-08-20206
+**Student Survey Results:** [Results](StudentBrandingSurvey.pdf) as of 7-08-2026
 
 #### Action Items & Next Steps
 * **Rio:** Draft of Slide for Advisory Committee Meeting on June 24 8am to 12:30pm.  [First Draft](advisory_committe_slide.pdf)
