@@ -60,6 +60,7 @@ Welcome to the central workspace for our curriculum update workgroup. This repos
 ---
 
 ## 📝 Previous Meeting Notes
+* [7-08-2026](meeting-notes/2026-07-08-notes.md)
 * [5-27-2026](meeting-notes/2026-05-27-notes.md)
 * [5-27-2026 Reedley Comminity College IS Faculty](meeting-notes/2026-05-27-notes-rcc.md) 
 * [5-20-2026](meeting-notes/2026-05-20-notes.md)
