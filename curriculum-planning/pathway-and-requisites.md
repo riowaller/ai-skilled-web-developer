@@ -1,48 +1,57 @@
 # Student Pathways & Prerequisite Planning
 
 ## 📊 Prerequisite Tracker
-This table represents the formal curriculum changes as of May 19, 2026. It balances institutional requirements (Prerequisites) with pedagogical recommendations (Advisories) to ensure student success while maintaining a strict **Syntax-Isolation** model to prevent cognitive overload.
+This table represents the formal curriculum changes finalized for the upcoming 4-year review cycle. It balances institutional requirements (Prerequisites) with pedagogical recommendations (Advisories) to ensure student success while maintaining a strict **Syntax-Isolation** model to prevent cognitive overload.
 
-## Proposal after Faculty Consensus (2-Year Language-Isolated Model)
+## The 4-Semester Fixed Cohort Sequence
 | Course | Title | **Proposed Prerequisite** | **Proposed Advisory** |
 | :--- | :--- | :--- | :--- |
-| **CIT 82** | Intro to AI & Web | None | **Advisory:** CIT 48A OR CIT 15 |
-| **CIT 85** | Applied HTML/CSS | CIT 48A OR CIT 15 OR CIT 82 | None |
-| **CIT 93** | JavaScript | CIT 48A OR CIT 15 OR CIT 82 | **Advisory:** CIT 85 |
-| **CIT 28** | SQL | CIT 48A OR CIT 15 OR CIT 82 | **Advisory:** CIT 85 |
-| **CIT 84** | AI Web Workflows | **CIT 93** | **Advisory:** CIT 85 & CIT 28 |
-| **ELECTIVE** | **Programming Option 1** (Selected from Approved List) | Per Course Record | **Advisory:** CIT 82 OR CIT 15 |
-| **ELECTIVE** | **Programming Option 2** (Selected from Approved List) | Per Course Record | **Advisory:** CIT 93 |
+| **CIT 82** | Intro to AI & Web Development | None | **Advisory:** CIT 48A OR CIT 15 |
+| **CIT 85** | HTML and CSS | **CIT 48A OR CIT 15 OR CIT 82** | None |
+| **CIT 84** | Foundational Coding Concepts | **CIT 48A, CIT 15, and CIT 82** | **Advisory:** CIT 85 (or concurrent) |
+| **CIT 28** | SQL | **CIT 48A OR CIT 15 OR CIT 82** | **Advisory:** CIT 85 |
+| **CIT 93** | JavaScript | **CIT 48A OR CIT 15 OR CIT 82** | **Advisory:** CIT 84 & CIT 85 |
+| **CIT 94** | Advanced Agentic AI (Capstone) | **CIT 93** | None |
 
 ---
 
-## 🛣️ The "Student Success" Map (Recommended 2-Year Sequence)
+## 🛣️ The "Student Success" Map (Fixed 4-Semester Sequence)
 *This roadmap spaces out units to match the needs of working Central Valley students, manages heavy lab workloads, and guarantees that a student never studies conflicting programming languages concurrently.*
 
-### **Semester 1: The Design & Environment Gateway (6 units)**
-* **CIT 82:** Intro to AI & Web (Weeks 1-9)
-* **CIT 85:** Applied HTML/CSS (Weeks 10-18)
-* *Pedagogical Focus:* Zero programming syntax. Students focus entirely on structural layouts, UI/UX basics, and mastering the "Mechanical Shop" environment (VS Code, CLI, Git).
+```
+SEMESTER 1 (Foundations)      SEMESTER 2 (Data & Logic)    SEMESTER 3 (Scripting)       SEMESTER 4 (Capstone)
+┌────────────────────────┐    ┌────────────────────────┐    ┌────────────────────┐    ┌────────────────────┐
+│ CIT 82: Intro to AI &  │    │ CIT 84: Coding         │    │ CIT 93: JavaScript │    │ CIT 94: Agentic AI │
+│         Web Dev        │───>│         Concepts       │───>│ (Syntax Isolation) │───>│ (Program Capstone) │
+└────────────────────────┘    └────────────────────────┘    └────────────────────┘    └────────────────────┘
+┌────────────────────────┐    ┌────────────────────────┐
+│ CIT 85: HTML and CSS   │    │ CIT 28: SQL            │
+└────────────────────────┘    └────────────────────────┘
+```
 
-### **Semester 2: The Core Logic Pillar (4 units)**
+### **Semester 1: The Design & Environment Gateway**
+* **CIT 82:** Intro to AI & Web Development
+* **CIT 85:** HTML and CSS
+* *Pedagogical Focus:* Zero programming language syntax. Students focus entirely on baseline environmental literacy, structural web markup, foundational prompting frameworks, and mastering the "Mechanical Shop" workspace (VS Code, CLI, Git).
+
+### **Semester 2: Data & Algorithmic Logic Foundations**
+* **CIT 84:** Foundational Coding Concepts & Algorithmic Logic
+* **CIT 28:** SQL (Relational Data Modeling)
+* *Pedagogical Focus:* **Language-Agnostic Problem Solving.** Students master computational thinking, flowcharts, pseudocode, and trace tables in CIT 84 while simultaneously building relational database skills in CIT 28. Logic concepts are firmly established *before* hitting formal programming syntax.
+
+### **Semester 3: The Scripting Logic Pillar**
 * **CIT 93:** JavaScript (Full 18-Week Term)
-* *Pedagogical Focus:* **Total Syntax Isolation.** JavaScript has the stage entirely to itself. Students master core procedural logic, loops, and functions without the distraction of competing programming syntaxes.
+* *Pedagogical Focus:* **Total Syntax Isolation.** JavaScript has the stage entirely to itself. Because students already mastered baseline logic in Semester 2, they focus purely on syntax rules, DOM manipulation, asynchronous execution, and event-driven browser environments without cognitive overload.
 
-### **Semester 3: Data & Scripting Integration (7-8 units)**
-* **CIT 28:** SQL (Declarative Data Modeling)
-* **Programming Option 1** (e.g., Scripting / Dynamic Language track)
-* *Pedagogical Focus:* Students introduce a secondary programming language environment from the approved options list. Because they have already mastered baseline procedural logic in Semester 2, translating those conceptual skills to a second language syntax is smooth and intuitive. SQL is declarative and does not create code conflicts.
-
-### **Semester 4: Advanced Synthesis & Specialization (7-8 units)**
-* **CIT 84:** AI Web Workflows & Frameworks (Capstone)
-* **Programming Option 2** (e.g., Object-Oriented / Compiled Language track)
-* *Pedagogical Focus:* The ultimate portfolio build. In CIT 84, web app deployment is highly accelerated via component frameworks and AI workflows. This frees up the cognitive bandwidth required for students to successfully handle an additional language environment or advanced technical specialization track.
+### **Semester 4: Advanced Synthesis & Autonomous Capstone**
+* **CIT 94:** Advanced Agentic AI & Web Application Architecture (Capstone)
+* *Pedagogical Focus:* The uncompromised program capstone. Students build full-stack web applications leveraging autonomous AI agents, multi-agent networks, vector search (RAG), and JSON tool-calling interfaces. Concludes with a live verbal code defense and professional portfolio review.
 
 ---
 
 ## 🧠 Workgroup Rationale
 
-1. **Syntax Isolation via Classroom Experience:** Learning multiple programming languages simultaneously splits student focus and creates syntax pollution. This 4-semester architecture isolates the foundational language (JavaScript) in Semester 2 before introducing alternative programming tracks from the department option list.
-2. **Balanced Part-Time Pace:** Spreading the program across 2 full years drops the technical course load to an achievable **6 to 8 units per semester**. This actively supports retention and completion rates for our diverse, working community college demographic.
-3. **The Data-and-Elective Balance:** Pairing **CIT 28 (SQL)** and the first elective track in Semester 3 builds a highly marketable, modern developer profile. Since SQL is a query language rather than a procedural scripting language, it creates zero structural logic conflicts for the student.
-4. **Automated Capstone Freeing Bandwidth:** By placing the framework automation course (**CIT 84**) in Semester 4, students use AI orchestration to scaffold multi-file web setups efficiently, ensuring they aren't overwhelmed while simultaneously coding in their secondary elective environment.
+1. **Fixed Cohort Clarity (No Electives):** Removing electives eliminates student path confusion, stabilizes department enrollment forecasting, and guarantees a clear 4-semester graduation track for our working community college demographic.
+2. **Pre-Syntax Logic Layering:** Placing a re-imagined, language-agnostic **CIT 84** in Semester 2 ensures students understand conditional flows, loops, and variable states via trace tables and flowcharts before confronting strict compiler/interpreter syntax errors in **CIT 93**.
+3. **Total Syntax Isolation:** Learning multiple programming languages concurrently causes syntax pollution. This architecture isolates JavaScript in Semester 3 before introducing complex backend agentic orchestration and multi-agent systems in Semester 4.
+4. **Verifiable Capstone Rigor:** Moving **CIT 94** into the final Semester 4 slot establishes a dedicated space for full-stack AI integration, token budgeting, prompt injection security, and individual verbal code reviews modeled after modern tech industry interviews.
