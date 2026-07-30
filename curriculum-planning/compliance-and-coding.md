@@ -1,31 +1,34 @@
 # 🏛️ Curriculum Compliance & Coding Blueprint (2026)
 
 ## 1. CIP Code Alignment (Taxonomy Transition)
-Per the 2026 federal and state taxonomy deadlines, the program is transitioning from legacy TOP codes to the **Classification of Instructional Programs (CIP)**.
+Per the federal and state taxonomy deadlines, the program is transitioning from legacy TOP codes to the **Classification of Instructional Programs (CIP)**.
 
 *   **Proposed CIP Code:** **11.0104 (Informatics)**
 *   **Rationale & Justification:** 
-    *   **Beyond Syntax:** While traditional programming codes focus on language mastery, 11.0104 reflects the shift toward **Information Orchestration**. Our students aren't just writing code; they are managing the flow of data between manual logic, SQL databases, and AI models.
-    *   **The "AI Architect" Distinction:** Industry standards distinguish between "AI Consumers" and "AI Architects." This code signals that our graduates possess the architectural oversight required to audit and secure AI-driven systems.
+    *   **Beyond Syntax:** While traditional programming codes focus solely on specific language mastery, 11.0104 reflects the shift toward **Information Orchestration**. Our students aren't just writing syntax; they are managing the flow of data between manual logic, SQL databases, and autonomous AI models.
+    *   **The "AI Architect" Distinction:** Industry standards distinguish between "AI Consumers" and "AI Architects." This code signals that our graduates possess the architectural oversight required to audit, secure, and orchestrate AI-driven systems.
     *   **Interdisciplinary Handshake:** Informatics covers the "Human-Computer Interaction" (HCI) that is central to our **Mechanical Shop** pedagogy—ensuring the human remains the primary architect of the technical solution.
 
 ---
 
 ## 2. Common Course Numbering (CCN) & Requisite Logic
-To satisfy **AB 1111** requirements and maintain enrollment flexibility, we utilize a "Multiple Entry" strategy paired with a clean upper-tier capstone gatekeeper for the 2026–2028 cycle.
+To satisfy **AB 1111** requirements and maintain enrollment flexibility, we utilize an open entry strategy paired with clean, sequential prerequisite gates across our 4-semester fixed cohort track.
 
 | Course | Proposed Requisite Status | Alignment / Rationale |
 | :--- | :--- | :--- |
 | **CIT 82** | **Advisory:** CIT 48A or CIT 15 | **Preferred Path:** CIT 48A (ITIS 110) for technical depth. **General Path:** CIT 15 (ITIS 120) for broader accessibility. |
-| **CIT 85/93/28** | **Prerequisite:** CIT 48A, 15, or 82 | Ensures foundational computer literacy and file-system mastery before entry into "Mechanical Shop" labs. |
-| **CIT 84** | **Prerequisite:** CIT 93 <br>**Advisory:** CIT 85 & CIT 28 | **The Capstone Pipeline:** Enforces standard code compilation and debugging competence (JavaScript) before launching into automated application framework orchestration. |
+| **CIT 85** | **Prerequisite:** CIT 48A, 15, or 82 | Ensures foundational computer literacy and file-system mastery before entry into structural layout labs. |
+| **CIT 84** | **Prerequisite:** CIT 48A, 15, and 82<br>**Advisory:** CIT 85 (or concurrent) | **The Logic Gate:** Establishes language-agnostic algorithmic flow, flowcharts, and trace tables *before* students confront formal programming language compilers. Matches CIT 85 entry requirements. |
+| **CIT 28** | **Prerequisite:** CIT 48A, 15, or 82<br>**Advisory:** CIT 85 | Establishes declarative data structures and SQL database architecture alongside CIT 84 logic. |
+| **CIT 93** | **Prerequisite:** CIT 48A, 15, or 82<br>**Advisory:** CIT 84 & CIT 85 | **Syntax Isolation:** JavaScript runs in complete syntax isolation, building directly on the mental models established in CIT 84. |
+| **CIT 94** | **Prerequisite:** CIT 93 | **The Capstone Pipeline:** Enforces core scripting, DOM manipulation, and asynchronous execution mastery before launching into advanced full-stack agentic orchestration. |
 
-**Workgroup Consensus:** By utilizing **Advisories** for the entry course (CIT 82) and keeping the technical entry tier open to anyone with *any* foundational computer course, we fulfill the mandate to reduce institutional barriers. Restricting the final frameworks course (**CIT 84**) to students with core JavaScript experience guarantees academic safety and high project completion rates.
+**Workgroup Consensus:** By utilizing **Advisories** for the entry course (CIT 82) and keeping the foundational tier accessible, we fulfill the mandate to reduce institutional barriers. Restricting the program capstone (**CIT 94**) to students with core JavaScript experience guarantees academic safety and high project completion rates.
 
 ---
 
 ## 3. Equity-Focused Assessment (Title 5 § 55001)
-To advance equitable student outcomes and close achievement gaps, our 2026 updates move away from monolithic testing in favor of **Student-Centered Mastery**:
+To advance equitable student outcomes and close achievement gaps, our updates move away from monolithic testing in favor of **Student-Centered Mastery**:
 
 *   **Verbal Code Reviews (The "Handshake"):** Students demonstrate competency by explaining their logic in 1-on-1 or recorded sessions. This supports students who possess high technical competency but may struggle with traditional written assessments or high-stakes testing anxiety.
 *   **Supportive Entry (The Bridge):** Instead of "gatekeeping," we utilize a **Success Audit** to identify gaps and provide "Bridge Labs." This ensures that students from under-resourced technical backgrounds can "skill up" on professional tools (Git/CLI) without being blocked by registration hurdles.
@@ -37,21 +40,21 @@ To advance equitable student outcomes and close achievement gaps, our 2026 updat
 To maintain 100% online/hybrid readiness, the Course Outlines of Record (COR) specify the following for the AI era:
 
 *   **Generative AI Tools:** Official inclusion of LLMs as "Auxiliary Instructional Materials" for debugging, documentation, and logic explanation.
-*   **Authentication & Integrity:** Utilizing **Technical Interviews** and **Video-Based Walkthroughs** as the primary method of student authentication, ensuring that the student is the human-in-the-loop architect of all submitted work.
+*   **Authentication & Integrity:** Utilizing **Technical Interviews**, **Live Verbal Defenses**, and **Video-Based Walkthroughs** as the primary method of student authentication, ensuring that the student is the human-in-the-loop architect of all submitted work.
 
 ---
 
-# 📄 Finalized Catalog & Curriculum Modification Copy (May 2026)
+# 📄 Finalized Catalog & Curriculum Modification Copy
 
 ## 1. Program Description
-The AI-Skilled Web Development program provides students with the practical, hands-on training required to enter the local workforce as web developers, database assistants, and technical support specialists. Utilizing a supportive "Mechanical Shop" approach, the program focuses on building core coding skills from scratch—teaching students to manually author HTML, CSS, JavaScript, and SQL. Alongside these foundational skills, students learn how to responsibly use modern AI assistants to troubleshoot code, write documentation, and work more efficiently. This program is designed both for career-technical students seeking immediate employment in the Central Valley and for students preparing to transfer to a four-year institution.
+The Web Developer program provides students with the practical, hands-on training required to enter the workforce as web developers, database assistants, and technical support specialists. Utilizing a supportive "Mechanical Shop" approach, the program focuses on building core coding skills from scratch—teaching students to manually author HTML, CSS, JavaScript, and SQL, as well as master language-agnostic computational logic. Alongside these foundational skills, students learn how to responsibly orchestrate modern AI tools and agents to troubleshoot code, build automated workflows, and construct full-stack applications. This program is designed both for career-technical students seeking immediate employment in the region and for students preparing to transfer to a four-year institution.
 
 Completing the program along with the college graduation requirements leads to an Associate in Science (A.S.) degree; without the graduation requirements, students are eligible for a Certificate of Achievement.
 
 ---
 
 ## 2. Program Goals & Objectives
-The goal of this program is to provide accessible workforce and transfer preparation for a diverse student population in Central California. By updating our web curriculum to include responsible AI workflows, we ensure our students graduate with a competitive edge for local employment in school districts, government agencies, agriculture technology, and small businesses. 
+The goal of this program is to provide accessible workforce and transfer preparation for a diverse student population in Central California. By updating our web curriculum to include responsible AI workflows and agentic architecture, we ensure our students graduate with a competitive edge for local employment in school districts, government agencies, agriculture technology, and small businesses. 
 
 The program deliberately addresses technical equity gaps by embedding basic professional tools—like file management, the command line, and Git version control—directly into the early stages of the curriculum. This ensures that students with limited prior technology access can build confidence and technical competence in a structured environment. Furthermore, the program emphasizes digital literacy and ethics, training students to critically review AI outputs to ensure security, accuracy, and human oversight in their technical work.
 
@@ -60,9 +63,10 @@ The program deliberately addresses technical equity gaps by embedding basic prof
 ## 3. Program Learning Outcomes (PLOs)
 Upon successful completion of this program, students will be able to:
 1. **Orchestrate and Code Web Interfaces:** Manually author semantically correct structures and responsive presentation layers using modern web standards (HTML and CSS).
-2. **Execute Application Logic:** Construct programmatic, interactive client-side application logic using core JavaScript structures to solve functional web constraints.
-3. **Architect Data Integrations:** Design and query secure relational databases utilizing SQL to deliver and manage data architectures for integrated web applications.
-4. **Audit and Guide Generative AI Outputs:** Critically evaluate and orchestrate Generative AI tools as an auxiliary resource for troubleshooting, optimization, and documentation, ensuring human accountability for code integrity and security.
+2. **Deconstruct Algorithmic Logic:** Apply language-agnostic computational thinking, flowcharts, and trace tables to model complex problem-solving routines prior to code syntax execution.
+3. **Execute Application Logic:** Construct programmatic, interactive client-side application logic using core JavaScript structures to solve functional web constraints in syntax isolation.
+4. **Architect Data Integrations:** Design and query secure relational databases utilizing SQL to deliver and manage data architectures for integrated web applications.
+5. **Architect Agentic Systems & Audit Outputs:** Design, deploy, and audit full-stack web applications leveraging autonomous AI agents, multi-agent networks, and JSON tool-calling interfaces, maintaining strict human accountability for system security, token budgeting, and code integrity.
 
 ---
 
@@ -75,11 +79,11 @@ Upon successful completion of this program, students will be able to:
 
 ## 5. Place of Program in Curriculum
 *   **Distinct Position:** Serves as the Business Division's primary pathway for user-facing interfaces, software logic, and full-stack integration.
-*   **Data Analytics Partnership:** Coordinates directly with the Data Analytics and Predictive Modeling program. Both tracks share **CIT 28 (SQL)** as a "Floating Foundation"—Data Analytics utilizes it early for statistical modeling, while Web Development places it later as the data storage layer for applications. This prevents course duplication and creates clear "double-major" opportunities for students.
+*   **Data Analytics Partnership:** Coordinates directly with the Data Analytics and Predictive Modeling program. Both tracks share **CIT 28 (SQL)** as a "Floating Foundation"—Data Analytics utilizes it early for statistical modeling, while Web Development places it in Semester 2 alongside CIT 84 as the data storage layer for applications. This prevents course duplication and creates clear "double-major" opportunities for students.
 *   **Advisory Pipelines:** Maintains open entry points from general education by listing CIT 15 and CIT 48A as recommended advisories rather than restrictive prerequisites.
 
 ---
 
 ## 6. Labor Market Summary Narrative
-Employment for Web Developers and Digital Interface Designers (SOC 15-1254/15-1255) is projected to experience steady growth in the Fresno MSA over the next five years. This demand is driven by the digital needs of local agricultural logistics, healthcare networks, and public administration. A persistent supply gap exists between annual openings and regional graduates. This modification addresses this gap by producing entry-level developers possessing an "AI Competency" edge—allowing local small businesses to employ "force multiplier" technicians who reduce operational timelines through human-guided AI workflows.
+Employment for Web Developers and Digital Interface Designers (SOC 15-1254/15-1255) is projected to experience steady growth in the region over the coming years. This demand is driven by the digital needs of local agricultural logistics, healthcare networks, and public administration. A persistent supply gap exists between annual openings and regional graduates. This modification addresses this gap by producing entry-level developers possessing an "AI Competency" edge—allowing local small businesses to employ "force multiplier" technicians who reduce operational timelines through human-guided AI workflows and autonomous agent integration.
 *(Official Center of Excellence LMI Report Attached separately).*
