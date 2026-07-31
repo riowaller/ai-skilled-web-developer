@@ -54,3 +54,15 @@ Upon successful completion of CIT 94, students will be able to:
 | **Vector Search & RAG Architecture** | Embeddings, local vector stores, retrieval-augmented generation (RAG), and context window optimization. | Grounding agentic outputs in structured database environments to reduce hallucinations. |
 | **API Security & Token Economics** | Key rotation, environment variables, rate limits, token cost calculations, and budget enforcement. | Building cost-effective, secure enterprise applications without leaking API credentials. |
 | **Technical Interview & Code Defense** | System walkthroughs, architectural diagrams, verbal logic tracing, and live debugging under review. | Building verbal confidence, authenticating student authorship, and preparing for workforce entry. |
+
+# CIT 94: Course Objectives
+
+Upon completion of this course, the student will be able to:
+
+1. **Architect Multi-Agent Systems:** Design and configure autonomous AI agents and multi-agent coordination frameworks using structured system prompts and execution boundaries.
+2. **Implement Tool-Calling Interfaces:** Construct JSON schema definitions that allow AI agents to invoke external APIs, execute database queries, and interact with web application functions.
+3. **Integrate Local Vector Search (RAG):** Implement retrieval-augmented generation pipelines using vector embeddings and local vector databases to ground agentic responses in domain-specific data.
+4. **Manage Full-Stack Application State:** Build full-stack web application architectures that synchronize client-side user interfaces with asynchronous backend agent execution loops.
+5. **Enforce API Security & Token Economics:** Implement environment security protocols, API key rotation, rate limiting, and token budget management to prevent security breaches and cost overruns.
+6. **Audit Human-in-the-Loop Integrity:** Evaluate agentic workflows for hallucination risks, unexpected tool invocations, and logic errors, applying human-in-the-loop oversight to ensure operational safety.
+7. **Conduct Live Technical Code Defenses:** Verbally defend architectural decisions, explain agentic execution flows, and demonstrate live troubleshooting during technical interview reviews.
