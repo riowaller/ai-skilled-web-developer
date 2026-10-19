@@ -2,13 +2,13 @@
 
 ## Program-Level Rationale
 
-* **Labor Market Alignment over Legacy Coding:**  
+- **Labor Market Alignment over Legacy Coding:**  
   The softening in enrollments reflects a structural shift in industry hiring rather than a drop in demand. Employers no longer recruit entry-level coders to write manual boilerplate or static websites; they require developers who can supervise AI tools, integrate business data, and secure web applications.
-* **Proactive "Human-in-the-Loop" Architectural Focus:**  
+- **Proactive "Human-in-the-Loop" Architectural Focus:**  
   Rather than treating generative AI as an academic integrity threat, this sequence positions the student as the **architect and supervisor**. Curriculum emphasizes deterministic data validation, schema security, and system integration—core competencies that make graduates AI-resilient.
-* **Authentic Assessment & Oral Code Defense:**  
+- **Authentic Assessment & Oral Code Defense:**  
   To address unverified code generation and ensure authentic authorship, the entire sequence embeds **1-on-1 live technical code defenses** and execution trace walkthroughs, validating true student understanding and preparing them for technical job interviews.
-* **Equity, ZTC & UDL by Design:**  
+- **Equity, ZTC & UDL by Design:**  
   The modernized pathway utilizes **Zero Textbook Cost (ZTC)** open-source resources, browser-based cloud development environments (removing personal hardware barriers), and **Readiness Bridges** to ensure students from non-traditional backgrounds start on equal footing.
 
 ---
@@ -16,31 +16,24 @@
 ## Course-by-Course Rationale
 
 ### CIT 82: Introduction to AI and Web Development (Gateway On-Ramp)
-* **Rationale:** Serves as the modern front door to tech. Replaces legacy static-intro material with practical prompt engineering, foundational markup, and cloud-based developer workflows.
-* **Curricular Impact:** Demystifies computing early, builds student confidence through immediate visual feedback, and provides an accessible, equitable on-ramp into the sequence.
+- **Rationale:** Serves as the modern front door to tech. Replaces legacy static-intro material with practical prompt engineering, foundational markup, and cloud-based developer workflows.
+- **Curricular Impact:** Demystifies computing early, builds student confidence through immediate visual feedback, and provides an accessible, equitable on-ramp into the sequence.
 
 ### CIT 85: HTML and CSS (Interface Engineering & Accessibility)
-* **Rationale:** Refocuses client-side design on modern semantic structure, responsive CSS layout architecture, accessibility standards (WCAG), and clean DOM hierarchies.
-* **Curricular Impact:** Ensures students master interface architecture and web accessibility before progressing into application logic.
+- **Rationale:** Refocuses client-side design on modern semantic structure, responsive CSS layout architecture, accessibility standards (WCAG), and clean DOM hierarchies.
+- **Curricular Impact:** Ensures students master interface architecture and web accessibility before progressing into application logic.
 
-### CIT 84: Foundational Coding Concepts
-* **What Changed:** Re-titled and restructured from a frontend framework-heavy course (e.g., React/Vue frameworks) to **Foundational Coding Concepts**, focusing on language-agnostic logic modeling, ANSI/ISO flowcharts, structured pseudocode, and line-by-line execution trace tables.
-* **Why the Change Was Made:** 
-  * **Framework Churn vs. Durable Logic:** Frontend JavaScript frameworks change rapidly and impose high syntactic overhead, masking fundamental computational gaps. Students struggled in frameworks because they lacked the underlying logical scaffolding to trace state changes, control flow, and data flow.
-  * **Decoupling Syntax from Problem Solving:** Teaching frameworks before solidifying core logic led to cognitive overload. Grounding students in applied problem decomposition and trace tables first gives them the structural foundation necessary to succeed in modern JavaScript (CIT 93) and full-stack orchestration (CIT 94).
-  * **AI-Assisted Scaffolding:** In an AI era, framework boilerplate can be generated instantly. The durable human skill is verifying program logic, identifying edge cases, and supervising state transitions. CIT 84 trains students to use AI strictly as a Socratic logic tutor rather than a code crutch.
-* **Curricular Impact & Assessment Rigor:** 
-  * Replaces fragile framework setup with accessible, browser-based logic design tools.
-  * Incorporates an **oral logic review and execution trace defense**, ensuring students can verbally trace variables, explain conditional paths, and prove authentic comprehension before writing syntax-heavy code.
+### CIT 84: Foundational Coding Concepts (Logic & Problem Decomposition)
+- **Rationale:** Restructured from frontend frameworks (e.g., React/Vue) to language-agnostic logic modeling, flowcharts, pseudocode, and execution trace tables. Isolating logic from framework syntax churn prevents cognitive overload and builds durable problem-solving skills before students tackle syntax-heavy programming.
+- **Curricular Impact:** Drastically improves persistence and retention into intermediate courses. Introduces oral logic walkthroughs and trace table defenses, training students to evaluate execution flows and use AI as a Socratic logic tutor rather than an answer generator.
 
 ### CIT 93: JavaScript (Dynamic Application Scripting)
-* **Rationale:** Centers on modern ES6+ JavaScript standards, asynchronous execution, event-driven DOM manipulation, and consuming REST APIs.
-* **Curricular Impact:** Bridges foundational logic (CIT 84) to real-world interactive web applications, establishing the scripting depth required for backend agent orchestration.
+- **Rationale:** Centers on modern ES6+ JavaScript standards, asynchronous execution, event-driven DOM manipulation, and consuming REST APIs.
+- **Curricular Impact:** Bridges foundational logic (CIT 84) to real-world interactive web applications, establishing the scripting depth required for backend agent orchestration.
 
 ### CIT 94: Agentic AI (Full-Stack Capstone)
-* **What Changed:** Re-titled and modernized from legacy server-side scripting (**Node.js**) to **Agentic AI**, while pivoting away from theoretical vector database/RAG architectures to focus directly on **practical agent orchestration, business data integration, schema validation, and API security/budget management.**
-* **Rationale:** Server-side runtimes like Node.js are no longer taught in isolation; they now serve as the backend engine for autonomous agent execution loops, API orchestration, and external database communication. Modern employers need developers who can bind client-side interfaces to business data, validate inputs with strict schemas, and safely supervise multi-agent workflows.
-* **Curricular Impact:** Students produce a production-ready, full-stack portfolio application integrating front-end interfaces, server-side agent execution, and business data endpoints. Evaluated via a culminating **1-on-1 live technical code defense**, proving they can trace, explain, and justify their full-stack architecture under direct probing.
+- **Rationale:** Re-titled and modernized from legacy server-side scripting (Node.js) to Agentic AI, focusing on practical agent orchestration, business data integration, schema validation, and API rate-limiting/budgeting rather than isolated scripting or theoretical vector architectures.
+- **Curricular Impact:** Students produce a production-ready, full-stack portfolio application integrating front-end interfaces, backend agent execution, and real business database endpoints. Evaluated via a culminating 1-on-1 live technical code defense to verify individual authorship and architectural decision-making.
 
 ---
 

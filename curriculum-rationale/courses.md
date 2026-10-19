@@ -15,9 +15,14 @@
 ---
 
 ### CIT 84: Foundational Coding Concepts
-* **What Changed:** Replaced theoretical computer science algorithm jargon with applied, language-agnostic logic workflows: visual flowcharting (ANSI/ISO standards), structured pseudocode, and line-by-line execution trace tables.
-* **Why the Change Was Made:** Students often struggle in JavaScript because they are trying to learn syntax and program logic simultaneously. Isolating logic from syntax allows students to master control flow, scoping, and boundary conditions first.
-* **Assessment Innovation:** Introduced the oral logic review and execution trace table defense, ensuring students dry-run their own logic and use AI strictly as a Socratic tutor rather than an answer generator.
+* **What Changed:** Re-titled and restructured from a frontend framework-heavy course (e.g., React/Vue frameworks) to **Foundational Coding Concepts**, focusing on language-agnostic logic modeling, ANSI/ISO flowcharts, structured pseudocode, and line-by-line execution trace tables.
+* **Why the Change Was Made:** 
+  * **Framework Churn vs. Durable Logic:** Frontend JavaScript frameworks change rapidly and impose high syntactic overhead, masking fundamental computational gaps. Students struggled in frameworks because they lacked the underlying logical scaffolding to trace state changes, control flow, and data flow.
+  * **Decoupling Syntax from Problem Solving:** Teaching frameworks before solidifying core logic led to cognitive overload. Grounding students in applied problem decomposition and trace tables first gives them the structural foundation necessary to succeed in modern JavaScript (CIT 93) and full-stack orchestration (CIT 94).
+  * **AI-Assisted Scaffolding:** In an AI era, framework boilerplate can be generated instantly. The durable human skill is verifying program logic, identifying edge cases, and supervising state transitions. CIT 84 trains students to use AI strictly as a Socratic logic tutor rather than a code crutch.
+* **Curricular Impact & Assessment Rigor:** 
+  * Replaces fragile framework setup with accessible, browser-based logic design tools.
+  * Incorporates an **oral logic review and execution trace defense**, ensuring students can verbally trace variables, explain conditional paths, and prove authentic comprehension before writing syntax-heavy code.
 
 ---
 
