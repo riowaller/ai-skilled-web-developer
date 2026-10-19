@@ -23,9 +23,15 @@
 * **Rationale:** Refocuses client-side design on modern semantic structure, responsive CSS layout architecture, accessibility standards (WCAG), and clean DOM hierarchies.
 * **Curricular Impact:** Ensures students master interface architecture and web accessibility before progressing into application logic.
 
-### CIT 84: Foundational Coding Concepts (Logic & Problem Decomposition)
-* **Rationale:** Reframed away from theoretical computer science algorithms toward applied, language-agnostic logic modeling (flowcharts, pseudocode, execution trace tables, and variable state mutation).
-* **Curricular Impact:** Prepares students for programming by teaching them how to dry-run logic line-by-line and use AI as a Socratic debugging tutor rather than a code generator. Includes oral logic defenses to verify independent execution tracking.
+### CIT 84: Foundational Coding Concepts
+* **What Changed:** Re-titled and restructured from a frontend framework-heavy course (e.g., React/Vue frameworks) to **Foundational Coding Concepts**, focusing on language-agnostic logic modeling, ANSI/ISO flowcharts, structured pseudocode, and line-by-line execution trace tables.
+* **Why the Change Was Made:** 
+  * **Framework Churn vs. Durable Logic:** Frontend JavaScript frameworks change rapidly and impose high syntactic overhead, masking fundamental computational gaps. Students struggled in frameworks because they lacked the underlying logical scaffolding to trace state changes, control flow, and data flow.
+  * **Decoupling Syntax from Problem Solving:** Teaching frameworks before solidifying core logic led to cognitive overload. Grounding students in applied problem decomposition and trace tables first gives them the structural foundation necessary to succeed in modern JavaScript (CIT 93) and full-stack orchestration (CIT 94).
+  * **AI-Assisted Scaffolding:** In an AI era, framework boilerplate can be generated instantly. The durable human skill is verifying program logic, identifying edge cases, and supervising state transitions. CIT 84 trains students to use AI strictly as a Socratic logic tutor rather than a code crutch.
+* **Curricular Impact & Assessment Rigor:** 
+  * Replaces fragile framework setup with accessible, browser-based logic design tools.
+  * Incorporates an **oral logic review and execution trace defense**, ensuring students can verbally trace variables, explain conditional paths, and prove authentic comprehension before writing syntax-heavy code.
 
 ### CIT 93: JavaScript (Dynamic Application Scripting)
 * **Rationale:** Centers on modern ES6+ JavaScript standards, asynchronous execution, event-driven DOM manipulation, and consuming REST APIs.
