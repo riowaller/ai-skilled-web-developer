@@ -29,7 +29,7 @@
 
 ---
 
-### 5. Shift from Theoretical CS to Applied Business Integration
-* **What Changed:** Aligned advanced coursework (CIT 94) with applied business data integration, schema validation, and secure API tool-calling rather than theoretical mathematical modeling or pure computer science algorithms.
-* **Why the Change Was Made:** As a community college CTE program, our primary mission is direct employability. Regional employers (healthcare, agriculture technology, government, logistics) need developers who can build secure, reliable web tools that interact with real relational databases and external business services.
-* **Curricular Benefit:** Clear differentiation from four-year CS transfer pathways, providing an immediate career-entry off-ramp for career education students while retaining transferability options.
+### 5. Focus on Applied Business Systems & Workforce Integration
+* **What Changed:** Grounded advanced coursework in direct business data integration, schema validation, and secure API tool-calling rather than abstract academic exercises or isolated server scripting.
+* **Why the Change Was Made:** As a Business Education CTE program, our core mission is immediate workforce employability and practical business problem-solving. Regional employers (healthcare, agriculture technology, local government, logistics) need developers who can build secure, reliable web tools that interact with real relational databases and operational business services.
+* **Curricular Benefit:** Reinforces our Business Education identity by delivering job-ready practitioners equipped to automate real enterprise workflows, protect operational data integrity, and solve immediate regional business needs.
